@@ -1,0 +1,130 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Install python: /python/en/installing
+
+Algorithms (SP1 - level 1):
+    Introduction: /algorithms/en/intro2
+
+    Getting started:
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+        Check your water usage [assignment]: /algorithms/en/water
+
+    Algorithms:
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+
+    Loops:
+        Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
+        Learn about while-loops [theory]: /python/en/loops/while
+        Practice with while-loops [practice]: /python/en/loops/while/practice
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
+
+    Pyramid:
+        Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
+
+    Change:
+        Looking for trouble [theory]: /python/en/debugging-basics
+        Understand how to write good code [theory]: /python/en/style
+        Calculate change [assignment]: /algorithms/en/greedy
+        Review the previous assignment [peer review]: /peer/greedy
+
+    Plotting graphs:
+        Learn about lists [theory]: /python/en/lists
+        Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+        Visualize data with plots [assignment]: /plot/en/
+
+    Submit:
+        Submit your solutions: /submit/algorithms
+
+Numerical integration (SP1 - level 2):
+    Introduction: /integrals/en/intro2
+    Roots:
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with functions on paper [practice]: /python/en/functions-book
+        Practice with functions in Python [practice]: /python/en/functions/practice
+        Determine the roots of a polynomial [assignment]: /integrals/en/roots
+
+    Riemann:
+        Learn more about the Riemann sum [theory]: /integrals/en/riemann/explanation
+        Compute the Riemann sum [assignment]: /integrals/en/riemann/integrals
+
+    Random:
+        Learn more about random numbers [theory]: /python/en/random
+        Random fact [assignment]: /integrals/en/random/fact
+        Calculate the average distance between two points in a square [assignment]: /integrals/en/random/distance
+        Analyse with a histogram the output of the `random` function [assignment]: /integrals/en/random/histogram
+
+    Monte Carlo:
+        Learn about functions as arguments of other functions [theory]: /python/en/functions2
+        Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
+        Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
+        Calculate the surface of an odd shape [assignment]: /integrals/en/monte-carlo/egg
+    Submit:
+        Submit your solutions: /submit/integrals
+
+Big data (SP1 - level 3):
+    Introduction: /bigdata/en/
+
+    Big data:
+        Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
+        Learn to analyse and process a data set (repeated if you did Text) [theory]: /python/en/files
+        Process sensor data of a car ride [assignment]: /bigdata/en/car
+        Learn more about functions [theory]: /python/en/functions3
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
+
+    Submit:
+        Submit your solutions: /submit/bigdata
+
+Monopoly (level 4):
+    Animating in Python:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        A spiraling dot [assignment]: /animation/en/dot
+        Explore the movements of a buzzed student [assignment]: /animation/en/student
+    Monopoly:
+        Introduction: /monopoly/en/
+        Learn about debugging simulations [theory]: /python/en/debugging
+        Moving around the board [assignment]: /monopoly/en/moving-around
+        Using starting funds and buying stuff [assignment]: /monopoly/en/money
+        Add a player and restore the balance [assignment]: /monopoly/en/two-player
+    Submit:
+        Submit your solutions: /submit/monopoly
+
+Complexity (level 5):
+    Introduction: /complexity
+    "Part 1: Computational complexity":
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions 1 [assignment]: /complexity/questions1
+    "Part 2: Data structures":
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        List slicing and indexing [theory]: /python/en/slicing
+    "Part 3: Optimizing code":
+        Applying big O in your code [theory]: /python/en/big-o
+        Improving count_occurrence [theory]: /python/en/big-o-example
+        Complexity questions 2 [assignment]: /complexity/questions2
+        Jaccard [assignment]: /complexity/jaccard
+    "Part 4: Indexing":
+        Indexing words [assignment]: /complexity/word-index
+    Submit your solutions: /submit/complexity
+
+Survival (level 6):
+    Introduction: /survival/
+    "Part 1: Pandas":
+        Pandas (assignment): /survival/pandas
+    "Part 2: Survival":
+        Survival (assignment): /survival/survival
+    Submit your solutions: /submit/survival
+
+Practice Exam:
+    Practice exam: /exam/compsci/practice
