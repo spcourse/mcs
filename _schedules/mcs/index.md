@@ -122,20 +122,18 @@ Deadlines for each level are listed below.
 
 ## Grading {#grading}
 
-In order to pass the course you need to:
+TLDR; In order to pass the course you need to:
 
-- making level 1 and 2 sufficiently correct (as detailed below)
+- passing level 1 and 2
 - having an average 5.5 or higher for levels 3 to 6
 - passing the final exam
 
-Your final grade will be determined by the average grade for levels 3 to 6.
+Details:
 
-Level 1, 2 and the final exam do not contribute to the final grade, but you do need to hand them in correctly in order to pass the course.
-
-### Coursework (modules)
-
-* For levels 1 and 2 you do not get a grade. In stead you can get one of three possible marks: completely correct, mostly correct, or insufficient. You need to get these assignments at least mostly correct.
-* For levels 3 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} =  \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points.
+* For levels 1 and 2 you do not get a grade. Instead you will get a pass or fail. If you get a fail for the module you will be able to resubmit it. You need to have a pass for both modules in order to pass the course.
+* For levels 3 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} = \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points. The points are coverted to grade between 1 and 10. You need to get at least a 5.5 average for these modules to pass the course.
+* The final exam will consist of a number of small programming assignment that you will make on your own laptop in a controlled environment. The exam is pass/fail. You need to pass the exam in order to pass the course.
+* So, the grade is determined only by level 3 to 6, but you need to make everything sufficiently correct to pass the course.
 
 ## Doing your own work {#plagiarism}
 
