@@ -53,11 +53,8 @@ grades:
     monopoly_(level4): *graded-auto
     complexity_(level5): *graded-man
     survival_(level6): *graded-man
-
-    exam1:
-        <<: *testt
-    exam2:
-        <<: *testt
+    exam1: *testt
+    exam2: *testt
 
 modules:
     show_progress: true
@@ -65,7 +62,6 @@ modules:
         algorithms_(level1): 1
         integrals_(level2): 1
         bigdata_(level3): 1
-        movement_(bonus): 1
         monopoly_(level4): 1
         complexity_(level5): 1
         survival_(level6): 1
