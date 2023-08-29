@@ -124,9 +124,9 @@ Deadlines for each level are listed below.
 
 TLDR; In order to pass the course you need to:
 
-- passing level 1 and 2
-- having an average 5.5 or higher for levels 3 to 6
-- passing the final exam
+- pass level 1 and 2
+- have an average 5.5 or higher for levels 3 to 6
+- pass the final exam
 
 Details:
 
