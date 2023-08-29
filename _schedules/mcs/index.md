@@ -61,8 +61,6 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 - Install Python.
 - Choose one of the level 1 modules (Algorithms or Numbers) to get started!
 
-Beware that these are all the modules for all the Scientific Programming courses! **Don't start making them all until you've read below which specific modules you need to do for the course you are following.**
-
 ### Structure {#structure}
 
 The course has tutorials (werkcolleges) and labs (laptopcolleges).
