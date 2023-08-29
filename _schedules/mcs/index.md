@@ -1,5 +1,5 @@
 # Programming for minor Computational Science
-**Fall 2022/2023**
+**2023/2024**
 
 ## General info {#general}
 
@@ -65,25 +65,10 @@ Beware that these are all the modules for all the Scientific Programming courses
 
 ### Structure {#structure}
 
-The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
+The course has tutorials (werkcolleges) and labs (laptopcolleges).
 
-### Help {#help}
-
-The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
-
-There are two ways to get help, the tutorials and the forum:
-
-- Tutorials (on campus): The tutorials are the most classic way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
-  - **We highly recommend to join at least one tutorial a week.**
-  - You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[119429])
-  - This is a good place to work on your assignments and get immediate help.
-  - This is the main place where you can meet other students.
-  - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
-    - Book an appointment here: [book online tutorial slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
-    - At the moment of your appointment you can join here: [join online tutorial on zoom](https://uva-live.zoom.us/j/87393415014)
-- Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-  - Use the forum: [go to Ed](https://edstem.org/eu/courses/676/discussion/)
-  - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
+- The tutorials (werkcolleges) will be mostly focused on discussing the theory.
+- The labs (laptopcolleges) are the main focus of this course. Here you will be working on programming assignments. When you're learning computer programming you will inevitably get stuck at some point. This is normal. We (the staff) are present during these labs to help you.
 
 ### Programming modules {#programming-modules}
 
@@ -111,7 +96,7 @@ Here below is an overview of all modules for all courses.
       <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
     </td>
   </tr><tr>
-    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
+    <td> <b>Level 3</b></td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
   </tr><tr>
     <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
@@ -127,8 +112,8 @@ Here below is an overview of all modules for all courses.
 
 Deadlines for each level are listed below.
 
-| Level\Pace          | standard        |
-|---------------------|-----------------|
+| Level         |                 |
+|---------------|-----------------|
 | Level 1       | ??? ?? ??? ???? |
 | Level 2       | ??? ?? ??? ???? |
 | Level 3       | ??? ?? ??? ???? |
@@ -150,7 +135,6 @@ Your final grade will be determined by the average grade for levels 3 to 6.
 Level 1, 2 and the final exam do not contribute to the final grade, but you do need to hand them in correctly in order to pass the course.
 
 ### Coursework (modules)
-
 
 * For levels 1 and 2 you do not get a grade. In stead you can get one of three possible marks: completely correct, mostly correct, or insufficient. You need to get these assignments at least mostly correct.
 * For levels 3 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} =  \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points.
@@ -204,6 +188,7 @@ BSc programme. Find them here in [English] and [Dutch].
 
 
 ## Acknowledgements {#acknowledgements}
+
 This course has been designed by Simon Pauw, Martijn Stegeman, Wouter Vrielink, Tim Doolan and Ivo van Vulpen.
 
 It is partially based on many great programming resources that have been published as Open Courseware under a Creative Commons license. The resulting work itself is also published under the Creative Commons License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Feel free to re-use! If you would like to use the work commercially, please send an e-mail for arranging a license.
