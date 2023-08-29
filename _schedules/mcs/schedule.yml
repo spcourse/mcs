@@ -2,7 +2,7 @@ Welcome:
     Read the syllabus to get started: /syllabus
     Install python: /python/en/installing
 
-Algorithms (SP1 - level 1):
+Algorithms (Level 1):
     Introduction: /algorithms/en/intro2
 
     Getting started:
@@ -42,7 +42,7 @@ Algorithms (SP1 - level 1):
     Submit:
         Submit your solutions: /submit/algorithms
 
-Numerical integration (SP1 - level 2):
+Numerical integration (Level 2):
     Introduction: /integrals/en/intro2
     Roots:
         Learn about functions in Python [theory]: /python/en/functions
@@ -68,7 +68,7 @@ Numerical integration (SP1 - level 2):
     Submit:
         Submit your solutions: /submit/integrals
 
-Big data (SP1 - level 3):
+Big data (Level 3):
     Introduction: /bigdata/en/
 
     Big data:
@@ -81,7 +81,7 @@ Big data (SP1 - level 3):
     Submit:
         Submit your solutions: /submit/bigdata
 
-Monopoly (level 4):
+Monopoly (Level 4):
     Animating in Python:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         A spiraling dot [assignment]: /animation/en/dot
@@ -95,7 +95,7 @@ Monopoly (level 4):
     Submit:
         Submit your solutions: /submit/monopoly
 
-Complexity (level 5):
+Complexity (Level 5):
     Introduction: /complexity
     "Part 1: Computational complexity":
         Complexity [theory]: /python/en/efficiency
@@ -118,7 +118,7 @@ Complexity (level 5):
         Indexing words [assignment]: /complexity/word-index
     Submit your solutions: /submit/complexity
 
-Survival (level 6):
+Survival (Level 6):
     Introduction: /survival/
     "Part 1: Pandas":
         Pandas (assignment): /survival/pandas
