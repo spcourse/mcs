@@ -36,24 +36,24 @@ templates:
         calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
 
 grades:
-    algorithms_(level1): *check-auto
-    integrals_(level2): *check-auto
-    bigdata_(level3): *graded-auto
-    monopoly_(level4): *graded-auto
-    complexity_(level5): *graded-man
-    survival_(level6): *graded-man
+    algorithms: *check-auto
+    integrals: *check-auto
+    bigdata: *graded-auto
+    monopoly: *graded-auto
+    complexity: *graded-man
+    survival: *graded-man
     exam1: *testt
     exam2: *testt
 
 modules:
     show_progress: true
     submits:
-        algorithms_(level1): 0
-        integrals_(level2): 0
-        bigdata_(level3): 1
-        monopoly_(level4): 1
-        complexity_(level5): 1
-        survival_(level6): 1
+        algorithms: 0
+        integrals: 0
+        bigdata: 1
+        monopoly: 1
+        complexity: 1
+        survival: 1
     required: true
 
 exams:
