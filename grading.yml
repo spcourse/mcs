@@ -25,7 +25,6 @@ templates:
         subgrades:
             code_quality: integer
             correctness: integer
-            checkpy: integer
         calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
 
     5: &graded-auto
@@ -34,6 +33,7 @@ templates:
         subgrades:
             code_quality: integer
             correctness: integer
+            checkpy: integer
         automatic:
             checkpy: correctness_score
         calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
