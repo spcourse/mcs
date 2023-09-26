@@ -53,7 +53,7 @@ modules:
     submits:
         algorithms: 0
         integrals: 0
-        bigdata: 1
+        bigdata-en: 1
         monopoly: 1
         complexity: 1
         survival: 1
