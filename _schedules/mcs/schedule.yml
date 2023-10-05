@@ -89,7 +89,9 @@ Monopoly (Level 4):
     Monopoly:
         Introduction: /monopoly/en/
         Learn about debugging simulations [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
         Moving around the board [assignment]: /monopoly/en/moving-around
+        "Design: default arguments [theory]": /python/en/default-arguments
         Using starting funds and buying stuff [assignment]: /monopoly/en/money
         Add a player and restore the balance [assignment]: /monopoly/en/two-player
     Submit:
