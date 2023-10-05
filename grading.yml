@@ -42,7 +42,7 @@ grades:
     algorithms: *check-auto
     integrals: *check-auto
     bigdata-en: *graded-auto
-    monopoly: *graded-auto
+    monopoly-en: *graded-auto
     complexity: *graded-man
     survival: *graded-man
     exam1: *testt
