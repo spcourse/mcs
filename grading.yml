@@ -54,7 +54,7 @@ modules:
         algorithms: 0
         integrals: 0
         bigdata-en: 1
-        monopoly: 1
+        monopoly-en: 1
         complexity: 1
         survival: 1
     required: true
