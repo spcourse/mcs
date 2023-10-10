@@ -118,7 +118,7 @@ Deadlines for each level are listed below.
 | Level 4       | Mon 02 Oct 2023 |
 | Level 5       | Mon 09 Oct 2023 |
 | Level 6       | Mon 16 Oct 2023 |
-| Exam          | Wed 25 Oct 2023 |
+| Exam          | Tue 24 Oct 2023 |
 |---------------|-----------------|
 
 ## Grading {#grading}
