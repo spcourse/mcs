@@ -122,7 +122,7 @@ The columns with names always only contain one name.
 
 Write a function `average_popularity_year(filename, year)` that given a `filename` and a `year` (int) can calculate the average popularity of all films that were released in that year. Your function should return the average popularity as a float. If there are no movies released in the given `year`, your function should return `None`, and print an error message.
 
-    filename = 'data/film.csv'
+    filename = 'film.csv'
     year = 1984
     avg_popularity = average_popularity_year(filename, year)
     print(f'The average popularity of movies in the year {year} was {avg_popularity:.2f}.')
