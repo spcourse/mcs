@@ -59,10 +59,15 @@ modules:
         survival: 1
     required: true
 
-exams:
+exam1:
     show_progress: true
     submits:
         exam1: 1
+    required: true
+
+exam2:
+    show_progress: true
+    submits:
         exam2: 1
     required: true
 
