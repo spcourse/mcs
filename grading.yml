@@ -48,11 +48,17 @@ grades:
     exam1: *testt
     exam2: *testt
 
-modules:
+
+training-modules:
     show_progress: true
     submits:
         algorithms: 0
         integrals: 0
+    required: true
+
+graded-modules:
+    show_progress: true
+    submits:
         bigdata-en: 1
         monopoly-en: 1
         complexity: 1
@@ -74,7 +80,7 @@ exam2:
 calculation:
     final1:
         exam1: 0
-        modules: 1
+        graded-modules: 1
     final2:
         exam2: 0
-        modules: 1
+        graded-modules: 1
