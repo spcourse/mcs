@@ -68,13 +68,13 @@ exams:
 
 calculation:
     final1:
-        exam1: 0
+        exam1: 1
         bigdata-en: 1
         monopoly-en: 1
         complexity: 1
         survival: 1
     final2:
-        exam1: 0
+        exam2: 0
         bigdata-en: 1
         monopoly-en: 1
         complexity: 1
