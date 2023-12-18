@@ -1,4 +1,5 @@
 name: exam2
+files:
     required:
         - mcs_exam2.py
 check:
