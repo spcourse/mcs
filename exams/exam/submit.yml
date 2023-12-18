@@ -1,8 +1,8 @@
-name: exam1
-files:
+name: exam2
+
     required:
-        - mcs_exam1.py
+        - mcs_exam2.py
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: mcs_exam1
+    args: mcs_exam2
