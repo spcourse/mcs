@@ -1,5 +1,4 @@
 name: exam2
-
     required:
         - mcs_exam2.py
 check:
