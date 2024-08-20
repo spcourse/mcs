@@ -1,5 +1,5 @@
 # Programming for minor Computational Science
-**2023/2024**
+**2024/2025**
 
 ## General info {#general}
 
@@ -49,7 +49,7 @@ All the reading and video material is available on this website. You do not need
 
 ### Staff {#staff}
 
-Marit den Helder, Tim de Groot, Roan van Blanken, Simon Pauw
+Amir Sahrani, Coen van den Elsen, Loes Bijman, Steph Drake, Simon Pauw
 
 Contact: <scientific@proglab.nl>
 
@@ -110,16 +110,16 @@ Here below is an overview of all modules for all courses.
 
 Deadlines for each level are listed below.
 
-| Level         |                 |
-|---------------|-----------------|
-| Level 1       | Mon 11 Sep 2023 |
-| Level 2       | Mon 18 Sep 2023 |
-| Level 3       | Mon 25 Sep 2023 |
-| Level 4       | Mon 02 Oct 2023 |
-| Level 5       | Mon 09 Oct 2023 |
-| Level 6       | Mon 16 Oct 2023 |
-| Exam          | Tue 24 Oct 2023 |
-|---------------|-----------------|
+| Level         |                     |
+|---------------|---------------------|
+| Level 1       | Mon **09 Sep** 2024 |
+| Level 2       | Mon **16 Sep** 2024 |
+| Level 3       | Mon **23 Sep** 2024 |
+| Level 4       | Mon **30 Sep** 2024 |
+| Level 5       | Mon **07 Oct** 2024 |
+| Level 6       | Mon **14 Oct** 2024 |
+| Exam          | Tue **22 Oct** 2024 |
+|---------------|---------------------|
 
 ## Grading {#grading}
 
@@ -132,7 +132,7 @@ TLDR; In order to pass the course you need to:
 Details:
 
 * For levels 1 and 2 you do not get a grade. Instead you will get a pass or fail. If you get a fail for the module you will be able to resubmit it. You need to have a pass for both modules in order to pass the course.
-* For levels 3 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} = \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points. The points are coverted to grade between 1 and 10. You need to get at least a 5.5 average for these modules to pass the course.
+* For levels 3 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} = \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points. The points are coverted to grade between 1 and 10 ($$\textrm{grade} = 1 + 9 \times (\textrm{points} - 5.0) / 20$$). You need to get at least a 5.5 average for these modules to pass the course.
 * The final exam will consist of a number of small programming assignment that you will make on your own laptop in a controlled environment. The exam is pass/fail. You need to pass the exam in order to pass the course.
 * So, the grade is determined only by level 3 to 6, but you need to make everything sufficiently correct to pass the course.
 
