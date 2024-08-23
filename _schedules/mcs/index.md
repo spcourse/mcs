@@ -63,10 +63,15 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 
 ### Structure {#structure}
 
-The course has tutorials (werkcolleges) and labs (laptopcolleges).
-
-- The tutorials (werkcolleges) will be mostly focused on discussing the theory.
-- The labs (laptopcolleges) are the main focus of this course. Here you will be working on programming assignments. When you're learning computer programming you will inevitably get stuck at some point. This is normal. We (the staff) are present during these labs to help you.
+You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[129494]). The course consist of two type of tutorials:
+- Plenary tutorials: On Tuesday's there are tutorial sessions.
+  - These tutorials are intended for discussing the theory.
+  - Theses tutorials take place in room G4.15
+- Individual tutorials: During the sessions on Monday, Wednesday, Thursday and Friday, you can het help with your programming assignments. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
+  - We don't expect you to come to all tutorials, but **we highly recommend to join at least one tutorial a week.**
+  - These tutorials all take place in the proglab rooms: L0.09 / L0.10
+  - This is a good place to work on your assignments and get immediate help.
+  - This is the main place where you can meet other students.
 
 ### Programming modules {#programming-modules}
 
