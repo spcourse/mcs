@@ -64,6 +64,7 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 ### Structure {#structure}
 
 You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[129494]). The course consist of two type of tutorials:
+
 - Plenary tutorials: On Tuesday's there are tutorial sessions.
   - These tutorials are intended for discussing the theory.
   - Theses tutorials take place in room G4.15
