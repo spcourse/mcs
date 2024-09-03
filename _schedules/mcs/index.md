@@ -131,16 +131,18 @@ Deadlines for each level are listed below.
 
 TLDR; In order to pass the course you need to:
 
-- pass level 1 and 2
+- having a passing grade for modules 1 - 3
 - have an average 5.5 or higher for levels 3 to 6
-- pass the final exam
+- have at least a 5.5 for the final exam
 
 Details:
 
-* For levels 1 and 2 you do not get a grade. Instead you will get a pass or fail. If you get a fail for the module you will be able to resubmit it. You need to have a pass for both modules in order to pass the course.
-* For levels 3 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} = \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points. The points are coverted to grade between 1 and 10 ($$\textrm{grade} = 1 + 9 \times (\textrm{points} - 5.0) / 20$$). You need to get at least a 5.5 average for these modules to pass the course.
-* The final exam will consist of a number of small programming assignment that you will make on your own laptop in a controlled environment. The exam is pass/fail. You need to pass the exam in order to pass the course.
-* So, the grade is determined only by level 3 to 6, but you need to make everything sufficiently correct to pass the course.
+* For levels 1 to 3 you do not get a grade. Instead you will get a pass or fail. If you get a fail for the module you will need to resubmit it. You need to have a pass for all three in order to pass the course.
+* For levels 4 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} = \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points. The points are coverted to grade between 1 and 10 ($$\textrm{grade} = 1 + 9 \times (\textrm{points} - 5.0) / 20$$).
+* The final exam will consist of a number of small programming assignments that you will make on your own laptop in a controlled environment. The exam is graded on a scale from 1 - 10.
+* The final grade is calculated as follows:
+  - 50% modules (4-6)
+  - 50% final exam
 
 ## Doing your own work {#plagiarism}
 

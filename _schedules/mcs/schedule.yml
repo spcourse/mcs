@@ -97,11 +97,12 @@ Monopoly (Level 4):
     Submit:
         Submit your solutions: /submit/monopoly
 
-Complexity (Level 5):
-    Introduction: /complexity
+Shakespeare (Level 5):
+    Scientific Programming 2 - Level 5 (Shakespeare):
+    Introduction: /shakespeare/intro
     "Part 1: Computational complexity":
         Complexity [theory]: /python/en/efficiency
-        Complexity questions 1 [assignment]: /complexity/questions1
+        Complexity questions [assignment]: /shakespeare/complexity-questions
     "Part 2: Data structures":
         Dictionaries [theory]: /python/en/dictionaries/use
         Dictionaries [practice]: /python/en/dictionaries/use/practice
@@ -110,15 +111,16 @@ Complexity (Level 5):
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         Sets [practice]: /python/en/sets/practice
-        List slicing and indexing [theory]: /python/en/slicing
-    "Part 3: Optimizing code":
-        Applying big O in your code [theory]: /python/en/big-o
-        Improving count_occurrence [theory]: /python/en/big-o-example
-        Complexity questions 2 [assignment]: /complexity/questions2
-        Jaccard [assignment]: /complexity/jaccard
-    "Part 4: Indexing":
-        Indexing words [assignment]: /complexity/word-index
-    Submit your solutions: /submit/complexity
+        Use dictionaries and sets [assignment]: /shakespeare/datastructures
+    "Part 3: Unique word classifier":
+        Optimize [assignment]: /shakespeare/optimize-unique-words
+        Extend [assignment]: /shakespeare/extend-unique-words
+    "Part 4: TF-IDF classifier":
+        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
+    "Part 5: Generate shakspeare data (BONUS)":
+        Generate your own word lists: /shakespeare/generate-word-list
+
+    Submit your solutions: /submit/shakespeare
 
 Survival (Level 6):
     Introduction: /survival/

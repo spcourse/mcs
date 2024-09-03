@@ -30,8 +30,8 @@ monopoly:
     branch: main
 
 # M5
-complexity:
-    remote: https://github.com/spcourse/complexity.git
+shakespeare:
+    remote: https://github.com/spcourse/shakespeare.git
     branch: main
 
 # M6
