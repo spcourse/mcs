@@ -71,9 +71,8 @@ training-modules:
 graded-modules:
     show_progress: true
     submits:
-        bigdata-en: 1
         monopoly-en: 1
-        complexity: 1
+        shakspeare: 1
         survival: 1
     required: true
 
