@@ -4,7 +4,7 @@ templates:
         type: pass
         subgrades:
             correct: boolean
-            checkpy: integer
+            checkpy: float
         automatic:
             checkpy: correctness_score
         calculation: correct
@@ -12,11 +12,11 @@ templates:
     3: &testt
         type: pass
         subgrades:
-            passed: boolean
-            checkpy: integer
+            grade: float
+            checkpy: float
         automatic:
             checkpy: correctness_score
-        calculation: passed
+        calculation: grade
         hide_calculated: true
 
     4: &graded-man
@@ -33,7 +33,7 @@ templates:
         subgrades:
             code_quality: integer
             correctness: integer
-            checkpy: integer
+            checkpy: float
         automatic:
             checkpy: correctness_score
         calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
@@ -66,6 +66,7 @@ training-modules:
     submits:
         algorithms: 0
         integrals: 0
+        bigdata-en: 0
     required: true
 
 graded-modules:
@@ -90,8 +91,8 @@ exam2:
 
 calculation:
     final1:
-        exam1: 0
+        exam1: 1
         graded-modules: 1
     final2:
-        exam2: 0
+        exam2: 1
         graded-modules: 1
