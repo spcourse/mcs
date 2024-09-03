@@ -118,12 +118,12 @@ Deadlines for each level are listed below.
 
 | Level         |                     |
 |---------------|---------------------|
-| Level 1       | Mon **09 Sep** 2024 |
-| Level 2       | Mon **16 Sep** 2024 |
-| Level 3       | Mon **23 Sep** 2024 |
-| Level 4       | Mon **30 Sep** 2024 |
-| Level 5       | Mon **07 Oct** 2024 |
-| Level 6       | Mon **14 Oct** 2024 |
+| Level 1       | Wed **11 Sep** 2024 |
+| Level 2       | Wed **18 Sep** 2024 |
+| Level 3       | Wed **25 Sep** 2024 |
+| Level 4       | Wed **02 Oct** 2024 |
+| Level 5       | Wed **09 Oct** 2024 |
+| Level 6       | Wed **16 Oct** 2024 |
 | Exam          | Tue **22 Oct** 2024 |
 |---------------|---------------------|
 
