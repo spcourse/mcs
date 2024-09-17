@@ -42,6 +42,8 @@ grades:
     algorithms:
         <<: *check-auto
         deadline: 11/09/24 23:59
+    pr-greedy:
+        <<: *check-auto
     integrals:
         <<: *check-auto
         deadline: 18/09/24 23:59
@@ -76,6 +78,12 @@ graded-modules:
         shakspeare: 1
         survival: 1
     required: true
+
+extra:
+    show_progress: true
+    submits:
+        pr-greedy: 0
+    required: false
 
 exam1:
     show_progress: true
