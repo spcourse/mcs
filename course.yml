@@ -1,6 +1,6 @@
 long_name: Programming for Minor Computational Science
 short_name: MCS
 language: en
-
+deadlines: soft
 links:
     '[brush] Style guide': /python/en/style
