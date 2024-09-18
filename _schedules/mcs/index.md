@@ -127,6 +127,10 @@ Deadlines for each level are listed below.
 | Exam          | Tue **22 Oct** 2024 |
 |---------------|---------------------|
 
+Deadlines are strict, but there is some leniency. You can submit up to three modules a few days after the deadline. If you need to submit more than three modules late, please **contact the teacher** before continuing the course.
+
+If you notice that you're falling structurally behind, please contact the teacher to make a plan to catch up.
+
 ## Grading {#grading}
 
 TLDR; In order to pass the course you need to:
