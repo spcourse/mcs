@@ -42,14 +42,18 @@ grades:
     algorithms:
         <<: *check-auto
         deadline: 11/09/24 23:59
+
     pr-greedy:
         <<: *check-auto
+
     integrals:
         <<: *check-auto
         deadline: 18/09/24 23:59
     bigdata-en:
         <<: *check-auto
         deadline: 25/09/24 23:59
+    mcs_practice1:
+        <<: *graded-auto
     monopoly-en:
         <<: *graded-auto
         deadline: 02/10/24 23:59
@@ -83,6 +87,7 @@ extra:
     show_progress: true
     submits:
         pr-greedy: 0
+        mcs_practice1: 0
     required: false
 
 exam1:
