@@ -116,16 +116,16 @@ Here below is an overview of all modules for all courses.
 
 Deadlines for each level are listed below.
 
-| Level         |                     |
-|---------------|---------------------|
-| Level 1       | Wed **11 Sep** 2024 |
-| Level 2       | Wed **18 Sep** 2024 |
-| Level 3       | Wed **25 Sep** 2024 |
-| Level 4       | Wed **02 Oct** 2024 |
-| Level 5       | Wed **09 Oct** 2024 |
-| Level 6       | Wed **16 Oct** 2024 |
-| Exam          | Tue **22 Oct** 2024 |
-|---------------|---------------------|
+| Level         |                     |              |
+|---------------|---------------------|--------------|
+| Level 1       | Wed **11 Sep** 2024 | pass/fail    |
+| Level 2       | Wed **18 Sep** 2024 | pass/fail    |
+| Level 3       | Wed **25 Sep** 2024 | pass/fail    |
+| Level 4       | Mon **07 Oct** 2024 | graded       |
+| Level 5       | Thu **17 Oct** 2024 | graded       |
+| Level 6       | Thu **17 Oct** 2024 | graded (semi-optional) |
+| Exam          | Tue **22 Oct** 2024 | graded       |
+|---------------|---------------------|--------------|
 
 Deadlines are strict, but there is some leniency. You can submit up to three modules a few days after the deadline. If you need to submit more than three modules late, please **contact the teacher** before continuing the course.
 
@@ -138,6 +138,8 @@ TLDR; In order to pass the course you need to:
 - having a passing grade for modules 1 - 3
 - have an average 5.5 or higher for levels 3 to 6
 - have at least a 5.5 for the final exam
+
+**Relaxation update!** You don't need to submit Level 6 to pass the course, although submitting it is required to earn full marks. For example, if you pass Levels 1 through 3 and have an average score of 5.5 for Levels 4 and 5, you will receive at least a 5.5 for your assignments. This minimum score applies even if you choose not to submit Level 6 or if you receive a low grade for it.
 
 Details:
 
