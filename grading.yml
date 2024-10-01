@@ -52,6 +52,8 @@ grades:
         deadline: 25/09/24 23:59
     mcs_practice1:
         <<: *testt
+    mcs_practice2:
+        <<: *testt
 
     monopoly-en:
         <<: *graded-auto
@@ -87,6 +89,7 @@ extra:
     submits:
         pr-greedy: 0
         mcs_practice1: 0
+        mcs_practice2: 0
     required: false
 
 exam1:

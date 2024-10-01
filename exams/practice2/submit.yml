@@ -1,0 +1,12 @@
+name: mcs_practice2
+exam: true
+files:
+    required:
+        'mcs_practice2.py': |
+            # Practice exam 2
+            # Name: ...
+
+            print("Welcome to the practice exam!")
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
