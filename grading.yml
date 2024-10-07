@@ -57,13 +57,13 @@ grades:
 
     monopoly-en:
         <<: *graded-auto
-        deadline: 02/10/24 23:59
+        deadline: 07/10/24 23:59
     shakspeare:
         <<: *graded-auto
-        deadline: 09/10/24 23:59
+        deadline: 17/10/24 23:59
     survival:
         <<: *graded-man
-        deadline: 16/10/24 23:59
+        deadline: 17/10/24 23:59
     exam1: *testt
     exam2: *testt
 

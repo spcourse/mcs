@@ -15,7 +15,7 @@ files:
             # Name: ...
 
             print("Welcome to the practice exam!")
-            
+
 
         'barca.txt': |
             29/08/11,Villarreal,won,5,0,home
