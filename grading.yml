@@ -54,7 +54,7 @@ grades:
         <<: *testt
     mcs_practice2:
         <<: *testt
-    mcs_practice_3:
+    mcs_practice3:
         <<: *testt
 
     monopoly-en:
@@ -92,6 +92,7 @@ extra:
         pr-greedy: 0
         mcs_practice1: 0
         mcs_practice2: 0
+        mcs_practice3: 0
     required: false
 
 exam1:
