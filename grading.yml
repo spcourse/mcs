@@ -54,9 +54,9 @@ grades:
         <<: *testt
     mcs_practice2:
         <<: *testt
-    mcs_practice3:
+    mcs_practice_3:
         <<: *testt
-        
+
     monopoly-en:
         <<: *graded-auto
         deadline: 07/10/24 23:59

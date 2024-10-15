@@ -1,5 +1,5 @@
 name: mcs_practice1
-exam: true
+exam: false
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
