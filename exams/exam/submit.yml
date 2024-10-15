@@ -1,8 +1,0 @@
-name: exam2
-files:
-    required:
-        - mcs_exam2.py
-check:
-    tool: checkpy
-    repo: spcourse/exam-tests
-    args: mcs_exam2
