@@ -1,5 +1,5 @@
 name: mcs_practice2
-exam: true
+exam: false
 files:
     required:
         'mcs_practice2.py': |
