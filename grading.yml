@@ -60,7 +60,7 @@ grades:
     monopoly-en:
         <<: *graded-auto
         deadline: 07/10/24 23:59
-    shakspeare:
+    shakespeare:
         <<: *graded-auto
         deadline: 17/10/24 23:59
     survival:
@@ -82,7 +82,7 @@ graded-modules:
     show_progress: true
     submits:
         monopoly-en: 1
-        shakspeare: 1
+        shakespeare: 1
         survival: 1
     required: true
 
