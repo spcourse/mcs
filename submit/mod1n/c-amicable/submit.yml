@@ -1,0 +1,9 @@
+name: c-amicable
+files:
+    required:
+        - amicable.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: amicable

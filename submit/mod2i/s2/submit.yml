@@ -1,0 +1,11 @@
+name: 2_2i
+files:
+    required:
+        - roots.py
+        - plot1.py
+        - plot2.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: roots plot1 plot2

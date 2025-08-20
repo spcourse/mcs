@@ -1,0 +1,9 @@
+name: c-montecarlo
+files:
+    required:
+        - montecarlo.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: montecarlo

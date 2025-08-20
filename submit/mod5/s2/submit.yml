@@ -1,0 +1,8 @@
+name: 5_2m
+files:
+    required:
+        - datastructures2.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: datastructures2

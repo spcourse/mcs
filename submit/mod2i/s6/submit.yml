@@ -1,0 +1,10 @@
+name: 2_6i
+files:
+    required:
+        - plot2.py
+        - riemann.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: plot2 riemann

@@ -1,152 +1,199 @@
 Welcome:
     First read the syllabus:
        Syllabus: /syllabus
+    Terra:
+        Set-up the programming environment: /python/en/installing/terra
 
-    Install Python on Windows:
+Number Theory - Level 1:
+    1.1 Output:
+        Hello, world [pair]: /shorts/hello
+        Submit [submit]: /submit/mod1n/s1
+    1.2 Input and Calculations:
+        Basics [theory]: /python/en/basics
+        Number Whiz [pair]: /numbers/en/whiz
+        Divide [individual]: /shorts/oranges
+        Submit [submit]: /submit/mod1n/s2
+    1.3 If-then:
+        Algorithms [theory]: /python/en/algorithms
+        Less Than [pair]: /shorts/less_than
+        First Year [pair]: /shorts/first_year
+        First or Last Year [individual]: /shorts/first_or_last_year
+        Leap Year [individual]: /shorts/leap_year
+        Submit [submit]: /submit/mod1n/s3
+    1.4 Loops 1 (For):
+        For Loops [theory]: /python/en/loops/for
+        Between [pair]: /shorts/between
+        Buzz [pair]: /shorts/buzz
+        Sum [individual]: /shorts/sum
+        Leap Years [pair]: /shorts/leap_years
+        Count Leap Years [individual]: /shorts/count_leap_years
+        Newton [pair]: /shorts/newton
+        Check Prime [individual]: /numbers/en/check-prime
+        Submit [submit]: /submit/mod1n/s4
+    1.5 Loops 2 (While):
+        While Loops [theory]: /python/en/loops/while
+        Loops examples [theory]: /python/en/loops/practical-uses
+        Elmo [samen]: /shorts/elmo
+        Positive [individual]: /shorts/positive
+        Sum Until [pair]: /shorts/sum_until
+        Birthday [pair]: /numbers/en/birthday
+        1001 Primes [individual]: /numbers/en/n-primes
+        Submit [submit]: /submit/mod1n/s5
+    1.6 Lists:
+        Debugging [theory]: /python/en/debugging-basics
+        Code in Style [theory]: /python/en/style
+        Lists [theory]: /python/en/lists
+        Positive List [pair]: /shorts/positive_list
+        Odd [samen]: /shorts/odd
+        Average [pair]: /shorts/average
+        Squares [individual]: /shorts/squares
+        Prime List [individual]: /numbers/en/primelist
+        Submit [submit]: /submit/mod1n/s6
+    Make sure to [discuss] your solutions in person after completing this level!:
+    1.7 Challenge 1:
+        Not required to pass, but needed for higher grade:
+        Goldbach [pair]: /numbers/en/goldbach
+        Submit Goldbach: /submit/mod1n/c-goldbach
+    1.8 Challenge 2:
+        Not required to pass, but needed for higher grade:
+        Amicable [pair]: /numbers/en/amicable
+        Submit Amicable: /submit/mod1n/c-amicable
+    1.9 Challenge 3:
+        Not required to pass, but needed for higher grade:
+        Eratosthenes [pair]: /numbers/en/eratosthenes
+        Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
-        Intro: /python/en/installing/intro
-        Step 1 install Miniconda: /python/en/installing/miniconda-win
-        Step 2 install Pulsar: /python/en/installing/pulsar
-        Step 3 command line interface: /python/en/installing/cli-win
-        Step 4 install Conda environment: /python/en/installing/conda-env-sp
-        Step 5 checkpy: /python/en/installing/checkpy
-
-    Install Python on MacOS:
-
-        Intro: /python/en/installing/intro
-        Step 1 install Miniconda: /python/en/installing/miniconda-mac
-        Step 2 install Pulsar: /python/en/installing/pulsar
-        Step 3 command line interface: /python/en/installing/cli-mac
-        Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
-        Step 5 checkpy: /python/en/installing/checkpy
-
-Algorithms (Level 1):
-    Introduction: /algorithms/en/intro2
-
-    Getting started:
-        Basic elements of Python [theory]: /python/en/basics
-        Basic elements of Python [practice]: /python/en/basics/practice
-        Check your water usage [assignment]: /algorithms/en/water
-
-    Algorithms:
-        Learn about algorithms [theory]: /python/en/algorithms
-        Practice with algorithms [practice]: /python/en/algorithms/practice
-
-    Loops:
-        Learn about for-loops [theory]: /python/en/loops/for
-        Practice with for-loops [practice]: /python/en/loops/for/practice
-        Learn about while-loops [theory]: /python/en/loops/while
-        Practice with while-loops [practice]: /python/en/loops/while/practice
-        Some typical uses of loops [theory]: /python/en/loops/practical-uses
-        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
-
-    Pyramid:
-        Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
-
-    Change:
-        Looking for trouble [theory]: /python/en/debugging-basics
-        Understand how to write good code [theory]: /python/en/style
-        Calculate change [assignment]: /algorithms/en/greedy
-        Review the previous assignment [peer review]: /peer
-
-    Plotting graphs:
-        Learn about lists [theory]: /python/en/lists
-        Practice with lists [practice]: /python/en/lists/practice
-        For loop strategies [theory]: /python/en/loops/element-vs-index
-        Learn how to use modules [theory]: /python/en/modules
-        Learn about plotting in Python [theory]: /python/en/plotting
-        Visualize data with plots [assignment]: /plot/en/
-
-    Submit:
-        Submit your solutions: /submit/algorithms
-
-Numerical integration (Level 2):
+Numerical Integration - Level 2:
     Introduction: /integrals/en/intro2
-    Roots:
-        Learn about functions in Python [theory]: /python/en/functions
-        Practice with functions on paper [practice]: /python/en/functions-book
-        Practice with functions in Python [practice]: /python/en/functions/practice
-        Determine the roots of a polynomial [assignment]: /integrals/en/roots
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        Squared [pair]: /shorts/squared
+        Min [pair]: /shorts/min
+        Fun Sum [individual]: /shorts/fun_sum
+        Max [individual]: /shorts/max
+        Max Index [individual]: /shorts/max_index
+        Arange [individual]: /shorts/arange
+        Submit [submit]: /submit/mod2i/s1
+    2.2 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        Plot [pair]: /plot/en/plot1
+        Roots [individual]: /integrals/en/roots
+        Plot Min [individual]: /plot/en/plot2
+        Submit [submit]: /submit/mod2i/s2
+    2.3 Riemann:
+        Riemann Sum [theory]: /integrals/en/riemann/explanation
+        Riemann Sum [individual]: /integrals/en/riemann/integrals
+        Submit [submit]: /submit/mod2i/s3
+    2.4 Strings:
+        Strings [theory]: /python/en/strings
+        Vowels [pair]: /shorts/vowels
+        Longest Word [individual]: /shorts/longest_word
+        Submit [submit]: /submit/mod2i/s4
+    2.5 Random:
+        Random Numbers [theory]: /python/en/random
+        Random Fact [pair]: /integrals/en/random/fact
+        Random Distance [individual]: /integrals/en/random/distance
+        Random Histogram [individual]: /integrals/en/random/histogram
+        Submit [submit]: /submit/mod2i/s5
+    2.6 Style:
+        Style [individual]: /style/integrals
+        Submit [submit]: /submit/mod2i/s6
+    Make sure to [discuss] your solutions in person after completing this level!:
+    2.7 Challenge 1:
+        Not required to pass, but recommended to try:
+        More Function [theory]: /python/en/functions2
+        Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
+        Monte Carlo [pair]: /integrals/en/monte-carlo/integrals
+        Submit [submit]: /submit/mod2i/c-montecarlo
+    2.8 Challenge 2:
+        Not required to pass:
+        Egg [pair]: /integrals/en/monte-carlo/egg
+        Submit [submit]: /submit/mod2i/c-egg
 
-    Riemann:
-        Learn more about the Riemann sum [theory]: /integrals/en/riemann/explanation
-        Compute the Riemann sum [assignment]: /integrals/en/riemann/integrals
-
-    Random:
-        Learn more about random numbers [theory]: /python/en/random
-        Random fact [assignment]: /integrals/en/random/fact
-        Calculate the average distance between two points in a square [assignment]: /integrals/en/random/distance
-        Analyse with a histogram the output of the `random` function [assignment]: /integrals/en/random/histogram
-
-    Monte Carlo:
-        Learn about functions as arguments of other functions [theory]: /python/en/functions2
-        Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
-        Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
-        Calculate the surface of an odd shape [assignment]: /integrals/en/monte-carlo/egg
-    Submit:
-        Submit your solutions: /submit/integrals
-
-Big data (Level 3):
-    Introduction: /bigdata/en/
-
-    Big data:
-        Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
-        Learn to analyse and process a data set (repeated if you did Text) [theory]: /python/en/files
-        Process sensor data of a car ride [assignment]: /bigdata/en/car
-        Learn more about functions [theory]: /python/en/functions3
-        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-
-    Submit:
-        Submit your solutions: /submit/bigdata
-
-Monopoly (Level 4):
-    Animating in Python:
-        Learn how to create animated graphics [theory]: /animation/en/explanation
-        A spiraling dot [assignment]: /animation/en/dot
-        Explore the movements of a buzzed student [assignment]: /animation/en/student
-    Monopoly:
-        Introduction: /monopoly/en/
-        Learn about debugging simulations [theory]: /python/en/debugging
-        Main function [theory]: /python/en/main_function
-        Moving around the board [assignment]: /monopoly/en/moving-around
-        "Design: default arguments [theory]": /python/en/default-arguments
-        Using starting funds and buying stuff [assignment]: /monopoly/en/money
-        Add a player and restore the balance [assignment]: /monopoly/en/two-player
-    Submit:
-        Submit your solutions: /submit/monopoly
-
-Shakespeare (Level 5):
-    Scientific Programming 2 - Level 5 (Shakespeare):
-    Introduction: /shakespeare/intro
-    "Part 1: Computational complexity":
-        Complexity [theory]: /python/en/efficiency
-        Complexity questions [assignment]: /shakespeare/complexity-questions
-    "Part 2: Data structures":
+Big Data - Level 4:
+    3.1 Car:
+        Read Files (repeated) [theory]: /python/en/file-io
+        Car Ride [pair]: /bigdata/en/car
+        Submit [submit]: /submit/mod3/s1
+    3.2 Temperature:
+        More about Functions [theory]: /python/en/functions3
+        Temperature [individual]: /bigdata/en/temperatures
+        Submit [submit]: /submit/mod3/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
+    3.3 Challenge 1:
+        Not required to pass, sneak-peak of SP2:
         Dictionaries [theory]: /python/en/dictionaries/use
-        Dictionaries [practice]: /python/en/dictionaries/use/practice
-        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        Sets [practice]: /python/en/sets/practice
-        Use dictionaries and sets [assignment]: /shakespeare/datastructures
-    "Part 3: Unique word classifier":
-        Optimize [assignment]: /shakespeare/optimize-unique-words
-        Extend [assignment]: /shakespeare/extend-unique-words
-    "Part 4: TF-IDF classifier":
-        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
-    "Part 5: Generate shakspeare data (BONUS)":
-        Generate your own word lists: /shakespeare/generate-word-list
+        List slicing and indexing [theory]: /python/en/slicing
+        Datastructures 1 [pair]: /python/en/datastructures-practice/part1
+        Submit [submit]: /submit/mod3/c-datastructures1
+    3.4 Challenge 2:
+        Not required to pass, sneak-peak of SP2:
+        Datastructures 2 [pair]: /python/en/datastructures-practice/part2
+        Submit [submit]: /submit/mod3/c-datastructures2
+    3.5 Challenge 3:
+        Not required to pass, but needed for higher grade:
+        Shakespeare [pair]: /shakespeare/shakespeare-short
+        Submit [submit]: /submit/mod3/c-shakespeare
 
-    Submit your solutions: /submit/shakespeare
+Monopoly - Level 4:
+    4.1 Animating in Python:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        Spiral [pair]: /animation/en/dot
+        Buzzed student [pair]: /animation/en/student
+        Submit [submit]: /submit/mod4/s1
+    4.2 Monopoly 1:
+        Introduction: /monopoly/en/
+        Debugging [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        Moving around [pair]: /monopoly/en/moving-around
+    4.3 Monopoly 2:
+        Default arguments [theory]: /python/en/default-arguments
+        Money [individual]: /monopoly/en/money
+        Submit [submit]: /submit/mod4/s3
+    4.4 Monopoly 3:
+        Two players [individual]: /monopoly/en/two-player
+        Submit [submit]: /submit/mod4/s4
+    Make sure to [discuss] your solutions in person after completing this level!:
+    4.5 Challenge:
+        Not required to pass, but needed for higher grade:
+        Conway’s Game of Life [pair]: /algorithms/en/conway
+        Submit Conway: /submit/mod1a/c-conway
 
-Survival (Level 6):
+Monopoly 2 - Level 5:
+    Introduction: /monopoly2/intro
+    5.1 Data structures - part 1:
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        List slicing and indexing [theory]: /python/en/slicing
+        Use dictionaries and sets - part 1 [individual]: /pymonopoly2/datastructures-practice/part1
+        Submit [submit]: /submit/mod5/s1
+    5.2 Data structures - part 2:
+        Use dictionaries and sets - part 2 [individual]: /pymonopoly2/datastructures-practice/part2
+        Submit [submit]: /submit/mod5/s2
+    Unifnished - TODO:
+
+Survival - Level 6:
     Introduction: /survival/
-    "Part 1: Pandas":
-        Pandas (assignment): /survival/pandas
-    "Part 2: Survival":
-        Survival (assignment): /survival/survival
-    Submit your solutions: /submit/survival
+    6.1 Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+    6.2 Jupyter notebook:
+        Jupyter notebook [practice]: /pandas/notebooks-sp
+    6.3 Pandas:
+        Pandas [practice]: /pandas/pandas-sp
+        Submit [submit]: /submit/mod6/s1
+    6.4 Seaborn:
+        Seaborn [practice]: /pandas/seaborn
+        Submit [submit]: /submit/mod6/s2
+    6.5 Challenge:
+        Not required to pass, but needed for higher grade:
+        Mushrooms [individual]: /pandas/survival-sp
+        Submit [submit]: /submit/mod6/s3
+    Make sure to [discuss] your solutions in person after completing this level!:
 
 Practice Exam:
     Practice exam: /exams/practice
