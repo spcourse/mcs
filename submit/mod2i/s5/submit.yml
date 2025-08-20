@@ -1,0 +1,11 @@
+name: 2_5i
+files:
+    required:
+        - randommaths.py
+        - distance.py
+        - histogram.py
+
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: randommaths distance histogram

@@ -1,0 +1,4 @@
+name: c-egg
+files:
+    required:
+        - egg.py

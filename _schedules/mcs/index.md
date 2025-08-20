@@ -1,5 +1,5 @@
 # Programming for minor Computational Science
-**2024/2025**
+**2025/2026**
 
 ## General info {#general}
 
@@ -49,7 +49,7 @@ All the reading and video material is available on this website. You do not need
 
 ### Staff {#staff}
 
-Amir Sahrani, Coen van den Elsen, Loes Bijman, Steph Drake, Simon Pauw
+Anastasia Shchupak, Simon Pauw
 
 Contact: <scientific@proglab.nl>
 
@@ -58,21 +58,16 @@ Contact: <scientific@proglab.nl>
 Your entry to the course is the sidebar, where you can leaf through all modules (levels) that you have to complete. To get started:
 
 - Read the rest of the syllabus, below.
-- Install Python.
-- Choose one of the level 1 modules (Algorithms or Numbers) to get started!
+- Set-up the IDE.
+- Start the first module (Number Theory).
 
 ### Structure {#structure}
 
-You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[129494]). The course consist of two type of tutorials:
+You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[138201]). The course consist of three types of activities:
 
-- Plenary tutorials: On Tuesday's there are tutorial sessions.
-  - These tutorials are intended for discussing the theory.
-  - Theses tutorials take place in room G4.15
-- Individual tutorials: During the sessions on Monday, Wednesday, Thursday and Friday, you can het help with your programming assignments. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
-  - We don't expect you to come to all tutorials, but **we highly recommend to join at least one tutorial a week.**
-  - These tutorials all take place in the proglab rooms: L0.09 / L0.10
-  - This is a good place to work on your assignments and get immediate help.
-  - This is the main place where you can meet other students.
+- Lectures for discussing theory. And looking at code samples.
+- Monday tutorials. **We expect all students to come to the monday tutorials.** During these tutroials you work on your homework, you discuss your code with the teachers, and you will occasionally get a quiz to test your progress.
+- Tuesday and Friday tutorials. These are not required, but I still highly recommend that you join those. During these tutorials you will work on your homework and you can ask us questions if you're stuck or if something is unclear.
 
 ### Programming modules {#programming-modules}
 
@@ -91,7 +86,7 @@ Here below is an overview of all modules for all courses.
     <td>
       <b>Level 1</b>
     </td><td colspan="3">
-      <b>ALGORITHMS</b>. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
+        <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)
     </td>
   </tr><tr>
     <td>
@@ -104,7 +99,7 @@ Here below is an overview of all modules for all courses.
   </tr><tr>
     <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
-    <td> <b>Level 5</b> </td><td colspan="3"> <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.</td>
+    <td> <b>Level 5</b> </td><td colspan="3"> <b>MONOPOLY 2</b>You will use more advanced datastructures to improve the design of MONOPOLY.</td>
   </tr><tr>
     <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
   </tr>
@@ -116,16 +111,17 @@ Here below is an overview of all modules for all courses.
 
 Deadlines for each level are listed below.
 
-| Level         |                     |              |
-|---------------|---------------------|--------------|
-| Level 1       | Wed **11 Sep** 2024 | pass/fail    |
-| Level 2       | Wed **18 Sep** 2024 | pass/fail    |
-| Level 3       | Wed **25 Sep** 2024 | pass/fail    |
-| Level 4       | Mon **07 Oct** 2024 | graded       |
-| Level 5       | Thu **17 Oct** 2024 | graded       |
-| Level 6       | Thu **17 Oct** 2024 | graded (semi-optional) |
-| Exam          | Tue **22 Oct** 2024 | graded       |
-|---------------|---------------------|--------------|
+| Level         |                     |
+|---------------|---------------------|
+| Level 1       | Fri **5 Sep** 2025  |
+| Level 2       | Fri **12 Sep** 2025 |
+| Level 3       | Fri **19 Sep** 2025 |
+| Level 4       | Fri **26 Sep** 2025 |
+| Level 5       | Fri **3 Oct** 2025  |
+| Level 6       | Fri **10 Oct** 2025 |
+|               |                     |
+| Exam          | Tue **21 Oct** 2025 |
+|---------------|---------------------|
 
 Deadlines are strict, but there is some leniency. You can submit up to three modules a few days after the deadline. If you need to submit more than three modules late, please **contact the teacher** before continuing the course.
 
@@ -135,16 +131,13 @@ If you notice that you're falling structurally behind, please contact the teache
 
 TLDR; In order to pass the course you need to:
 
-- having a passing grade for modules 1 - 3
-- have an average 5.5 or higher for levels 3 to 6
+- have *submitted and discussed* your solutions for *all* modules
+- have an average 5.5 or higher for the modules
 - have at least a 5.5 for the final exam
-
-**Relaxation update!** You don't need to submit Level 6 to pass the course, although submitting it is required to earn full marks. For example, if you pass Levels 1 through 3 and have an average score of 5.5 for Levels 4 and 5, you will receive at least a 5.5 for your assignments. This minimum score applies even if you choose not to submit Level 6 or if you receive a low grade for it.
 
 Details:
 
-* For levels 1 to 3 you do not get a grade. Instead you will get a pass or fail. If you get a fail for the module you will need to resubmit it. You need to have a pass for all three in order to pass the course.
-* For levels 4 to 6 you get a grade based on the code quality (how well written is the code?) and the correctness (does it meet the specifications?) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} = \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points. The points are coverted to grade between 1 and 10 ($$\textrm{grade} = 1 + 9 \times (\textrm{points} - 5.0) / 20$$).
+* For each module the grade will be determined by the amount of correctly submitted assignments. If you complete all the base assignments of a module you will get a 7. The rest of the grade (anything above a 7) will be determined by the amount and correctness of challenge assignments. 
 * The final exam will consist of a number of small programming assignments that you will make on your own laptop in a controlled environment. The exam is graded on a scale from 1 - 10.
 * The final grade is calculated as follows:
   - 50% modules (4-6)

@@ -1,8 +1,8 @@
 #### SP1
 
 # M1
-algorithms:
-    remote: https://github.com/spcourse/algorithms.git
+numbers:
+    remote: https://github.com/spcourse/numbers.git
     branch: main
 plot:
     remote: https://github.com/spcourse/plot.git
