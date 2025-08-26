@@ -24,7 +24,7 @@ templates:
         subgrades:
             correctness_base: float
             challenge_1: boolean
-        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -1.0).round(1)"
+        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -3.0).round(1)"
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
@@ -35,7 +35,7 @@ templates:
             correctness_base: float
             challenge_1: boolean
             challenge_2: boolean
-        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -1.0 + challenge_2 * -1.0).round(1)"
+        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -1.5 + challenge_2 * -1.5).round(1)"
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
