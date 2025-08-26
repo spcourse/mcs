@@ -87,7 +87,7 @@ grades:
 
     6_1s: *check
     6_2s: *check
-    6_3s: *check
+    c-survival: *check
 
     exam1: *testt
     exam2: *testt
