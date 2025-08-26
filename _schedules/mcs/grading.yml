@@ -167,9 +167,9 @@ sp2_level_5_shakespeare_L5sha:
     show_progress: true
     small_block_overview: true
     submits:
-        5_1s: 1
-        5_2s: 1
-        5_3s: 1
+        5_1m: 1
+        5_2m: 1
+        5_3m: 1
 
 sp2_level_6_survival_L6sur:
     show_progress: true
@@ -179,12 +179,6 @@ sp2_level_6_survival_L6sur:
         6_2s: 1
         c-sruvival: 1
 
-sp2_exams:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        sp2_exam1: 1
-        sp2_exam2: 1
 
 
 
