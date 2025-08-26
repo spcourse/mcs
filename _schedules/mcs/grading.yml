@@ -68,7 +68,7 @@ grades:
     2_6i: *auto
     c-montecarlo: *auto
     c-egg: *auto
-    c-plot-min-max: *check
+    c-plot_min_max: *check
 
     3_1b: *auto
     3_2b: *auto
