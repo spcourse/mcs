@@ -4,7 +4,7 @@ Welcome:
     Terra:
         Set-up the programming environment: /python/en/installing/terra
 
-Number Theory - Level 1:
+Level 1 - Number Theory:
     1.1 Output [1pt.]:
         Hello, world [pair]: /shorts/hello
         Submit [submit]: /submit/mod1n/s1
@@ -63,7 +63,7 @@ Number Theory - Level 1:
         Eratosthenes [pair]: /numbers/en/eratosthenes
         Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
-Numerical Integration - Level 2:
+Level 2 - Numerical Integration:
     Introduction: /integrals/en/intro2
     2.1 Functions [1pt.]:
         Functions [theory]: /python/en/functions
@@ -115,7 +115,7 @@ Numerical Integration - Level 2:
         Plot Min Max [pair]: /plot/en/plot_mm
         Submit Plot Min Max (21 jan): /submit/mod2t/c-plot-min-max
 
-Big Data - Level 3:
+Level 3 - Big Data:
     3.1 Car [3pt.]:
         Read Files (repeated) [theory]: /python/en/file-io
         Car Ride [pair]: /bigdata/en/car
@@ -143,7 +143,7 @@ Big Data - Level 3:
         Submit [submit]: /submit/mod3/c-shakespeare
 
 
-Monopoly - Level 4:
+Level 4 - Monopoly:
     Scientific Programming 2 - Level 4 (Monopoly):
     4.1 Monopoly 1 [0pt.]:
         Introduction: /monopoly/en/
@@ -170,7 +170,7 @@ Monopoly - Level 4:
         Submit Conway: /submit/mod4/c-conway
 
 
-Monopoly 2 - Level 5:
+Level 5 - Monopoly 2:
     Introduction: /monopoly2/intro
     5.1 Data structures - part 1:
         Dictionaries [theory]: /python/en/dictionaries/use
@@ -185,7 +185,7 @@ Monopoly 2 - Level 5:
     Unifnished - TODO:
 
 
-Survival - Level 6:
+Level 6 - Survival:
     Introduction: /survival/
     6.1 Function arguments:
         Default arguments [theory]: /python/en/default-arguments
