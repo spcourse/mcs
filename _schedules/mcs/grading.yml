@@ -19,7 +19,40 @@ templates:
         hide_calculated: false
         hide_subgrades: true
 
-    3: &testt
+    3: &grade1
+        type: float
+        subgrades:
+            correctness_base: float
+            challenge_1: boolean
+        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -1.0).round(1)"
+        auto_publish: false
+        hide_calculated: false
+        hide_subgrades: true
+
+    4: &grade2
+        type: float
+        subgrades:
+            correctness_base: float
+            challenge_1: boolean
+            challenge_2: boolean
+        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -1.0 + challenge_2 * -1.0).round(1)"
+        auto_publish: false
+        hide_calculated: false
+        hide_subgrades: true
+
+    5: &grade3
+        type: float
+        subgrades:
+            correctness_base: float
+            challenge_1: boolean
+            challenge_2: boolean
+            challenge_3: boolean
+        calculation: "(1.0 + 6.0 * correctness-base / 10 + challenge_1 * -1.0 + challenge_2 * -1.0 + challenge_3 * -1.0).round(1)"
+        auto_publish: false
+        hide_calculated: false
+        hide_subgrades: true
+
+    6: &testt
         type: boolean
         subgrades:
             passed: boolean
@@ -35,19 +68,12 @@ templates:
 
 grades:
     #### SP 1 ####
-    m1-grade:
-        type: float
-        subgrades:
-            correctness_base: float
-            goldbach: boolean
-            amicable: boolean
-            eratosthenes: boolean
-        calculation: "(1.0 + 6.0 * correctness_base / 10 + goldbach * -1.0 + amicable * -1.0 + eratosthenes * - 1.0).round(1)"
-    m2-grade: *check
-    m3-grade: *check
-    m4-grade: *check
-    m5-grade: *check
-    m6-grade: *check
+    m1-grade: *grade3
+    m2-grade: *grade3
+    m3-grade: *grade1
+    m4-grade: *grade2
+    m5-grade: *grade2
+    m6-grade: *grade1
 
 
     1_1n: *auto
