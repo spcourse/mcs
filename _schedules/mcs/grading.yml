@@ -147,12 +147,6 @@ level_3_big_data_l3big:
         c-datastructures2: 1
         c-shakespeare: 1
 
-sp2_checks:
-    show_progress: true
-    submits:
-        m4-passed: 1
-        m5-passed: 1
-        m6-passed: 1
 
 level_4_monopoly_L4mon:
     show_progress: true
@@ -177,7 +171,7 @@ sp2_level_6_survival_L6sur:
     submits:
         6_1s: 1
         6_2s: 1
-        c-sruvival: 1
+        c-survival: 1
 
 
 
