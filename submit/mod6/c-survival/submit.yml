@@ -1,4 +1,4 @@
-name: 6_5-survival
+name: c-survival
 files:
     required:
         - survival.ipynb

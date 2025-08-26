@@ -1,0 +1,5 @@
+name: c-animation
+files:
+    required:
+        - spiral.py
+        - student.py

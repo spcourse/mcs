@@ -137,7 +137,7 @@ TLDR; In order to pass the course you need to:
 
 Details:
 
-* For each module the grade will be determined by the amount of correctly submitted assignments. If you complete all the base assignments of a module you will get a 7. The rest of the grade (anything above a 7) will be determined by the amount and correctness of challenge assignments. 
+* For each module is graded on a scale from 1 - 10. The grade will be determined by the amount of correctly submitted assignments. If you complete all the base assignments of a module you will get a 7. The rest of the grade (anything above a 7) will be determined by the amount and correctness of challenge assignments. 
 * The final exam will consist of a number of small programming assignments that you will make on your own laptop in a controlled environment. The exam is graded on a scale from 1 - 10.
 * The final grade is calculated as follows:
   - 50% modules (4-6)

@@ -1,4 +1,4 @@
-name: 6_3-pandas
+name: 6_1s
 files:
     required:
         - pandas.ipynb

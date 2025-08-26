@@ -1,0 +1,190 @@
+templates:
+    1: &auto
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points >= 9) && points || 0
+        automatic:
+            points: (correctness_score * 10).floor
+        auto_publish: true
+        hide_calculated: false
+        hide_subgrades: false
+
+    2: &check
+        type: boolean
+        subgrades:
+            passed: boolean
+        calculation: passed
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
+    3: &testt
+        type: boolean
+        subgrades:
+            passed: boolean
+            checkpy: float
+        automatic:
+            checkpy: correctness_score * 10
+        calculation: passed
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
+
+
+grades:
+    #### SP 1 ####
+    m1-grade:
+        type: float
+        subgrades:
+            correctness_base: float
+            goldbach: boolean
+            amicable: boolean
+            eratosthenes: boolean
+        calculation: "(1.0 + 6.0 * correctness_base / 10 + goldbach * -1.0 + amicable * -1.0 + eratosthenes * - 1.0).round(1)"
+    m2-grade: *check
+    m3-grade: *check
+    m4-grade: *check
+    m5-grade: *check
+    m6-grade: *check
+
+
+    1_1n: *auto
+    1_2n: *auto
+    1_3n: *auto
+    1_4n: *auto
+    1_5n: *auto
+    1_6n: *auto
+    c-goldbach: *auto
+    c-amicable: *auto
+    c-eratosthenes: *auto
+
+    2_1i: *auto
+    2_2i: *auto
+    2_3i: *auto
+    2_4i: *auto
+    2_5i: *auto
+    2_6i: *auto
+    c-montecarlo: *auto
+    c-egg: *auto
+    c-plot-min-max: *check
+
+    3_1b: *auto
+    3_2b: *auto
+    c-datastructures1: *auto
+    c-datastructures2: *auto
+    c-shakespeare: *auto
+
+    4_1m: *auto
+    4_2m: *auto
+    c-animation: *check
+    c-conway: *check
+
+    5_1m: *auto
+    5_2m: *check
+    5_3m: *auto
+
+    6_1s: *check
+    6_2s: *check
+    6_3s: *check
+
+    exam1: *testt
+    exam2: *testt
+
+
+########### SP 1 ###########
+
+module_grades:
+    show_progress: true
+    submits:
+        m1-grade: 1
+        m2-grade: 1
+        m3-grade: 1
+        m4-grade: 1
+        m5-grade: 1
+        m6-grade: 1
+
+
+
+
+level_1_numbers_l1num:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        1_1n: 1
+        1_2n: 1
+        1_3n: 1
+        1_4n: 1
+        1_5n: 1
+        1_6n: 1
+        c-goldbach: 1
+        c-amicable: 1
+        c-eratosthenes: 1
+
+level_2_integration_l2int:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        2_1i: 1
+        2_2i: 1
+        2_3i: 1
+        2_4i: 1
+        2_5i: 1
+        2_6i: 1
+        c-plot_min_max: 1
+        c-montecarlo: 1
+        c-egg: 1
+
+
+level_3_big_data_l3big:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        3_1b: 1
+        3_2b: 1
+        c-datastructures1: 1
+        c-datastructures2: 1
+        c-shakespeare: 1
+
+sp2_checks:
+    show_progress: true
+    submits:
+        m4-passed: 1
+        m5-passed: 1
+        m6-passed: 1
+
+level_4_monopoly_L4mon:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        4_1m: 1
+        4_2m: 1
+        c-animation: 1
+        c-conway: 1
+
+sp2_level_5_shakespeare_L5sha:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        5_1s: 1
+        5_2s: 1
+        5_3s: 1
+
+sp2_level_6_survival_L6sur:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        6_1s: 1
+        6_2s: 1
+        c-sruvival: 1
+
+sp2_exams:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        sp2_exam1: 1
+        sp2_exam2: 1
+
+
+

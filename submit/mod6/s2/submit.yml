@@ -1,4 +1,4 @@
-name: 6_4-seaborn
+name: 6_2s
 files:
     required:
         - seaborn.ipynb
