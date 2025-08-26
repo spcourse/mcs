@@ -71,11 +71,7 @@ You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[
 
 ### Programming modules {#programming-modules}
 
-You're going to learn programming through a number of programming modules (called levels). Each module consist of:
-
-- Theory: Explanations both written and in the form of video's.
-- Practice: Exercises to test your understanding of the theory.
-- Assignments: Bigger programming problems, that require combining multiple programming concepts.
+You're going to learn programming through a number of programming modules (called levels). Each module consist of theory and assignments. Every module contains a number of challenges. These challenges are not required for a passing grade. (If you only do the base assignments and skip all the challenges you can still earn a 7.0 for this course.)
 
 Here below is an overview of all modules for all courses.
 
@@ -138,6 +134,7 @@ TLDR; In order to pass the course you need to:
 Details:
 
 * For each *programming module* is graded on a scale from 1 - 10. The grade will be determined by the amount of correctly submitted assignments. If you complete all the base assignments of a module you will get a 7. The rest of the grade (anything above a 7) will be determined by the amount and correctness of challenge assignments. 
+* For each challenge assignment you need to be able to explain the code to the teacher to get the credit.
 * Each tutorial quiz is graded on a scale from 2 - 4. 
 * The final exam will consist of a number of small programming assignments that you will make on your own laptop in a controlled environment. The exam is graded on a scale from 1 - 10.
 * The final grade is calculated as follows:
