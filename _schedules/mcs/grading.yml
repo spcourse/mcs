@@ -96,11 +96,14 @@ grades:
     c-egg: *auto
     c-plot_min_max: *check
 
-    3_1b: *auto
-    3_2b: *auto
-    c-datastructures1: *auto
-    c-datastructures2: *auto
-    c-shakespeare: *auto
+    3_1m: *auto
+    3_2m: *auto
+    3_3m: *auto
+    3_4m: *auto
+    3_5m: *auto
+    c-weather5: *auto
+    c-weather6: *check
+    c-weather7: *check
 
     4_1m: *auto
     4_2m: *auto
