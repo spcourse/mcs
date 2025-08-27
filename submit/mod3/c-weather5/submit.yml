@@ -1,8 +1,8 @@
-name: 3_2m
+name: c-weather5
 files:
     required:
-        - weather1.py
+        - weather5.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: weather1
+    args: weather5
