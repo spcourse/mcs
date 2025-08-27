@@ -44,3 +44,7 @@ survival:
 python:
     remote: https://github.com/spcourse/python.git
     branch: main
+
+python:
+    remote: https://github.com/spcourse/shorts.git
+    branch: shorts
