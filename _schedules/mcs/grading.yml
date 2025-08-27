@@ -177,7 +177,7 @@ level_3_big_data_l3big:
         c-weather7: 1
 
 
-level_4_monopoly_L4mon:
+level_4_monopoly_L4mo1:
     show_progress: true
     small_block_overview: true
     submits:
@@ -186,7 +186,7 @@ level_4_monopoly_L4mon:
         c-animation: 1
         c-conway: 1
 
-level_5_shakespeare_L5sha:
+level_5_monopoly2_L5mo2:
     show_progress: true
     small_block_overview: true
     submits:
