@@ -70,9 +70,9 @@ grades:
     #### SP 1 ####
     m1-grade: *grade3
     m2-grade: *grade3
-    m3-grade: *grade1
+    m3-grade: *grade3
     m4-grade: *grade2
-    m5-grade: *grade2
+    m5-grade: *grade3
     m6-grade: *grade1
 
 
