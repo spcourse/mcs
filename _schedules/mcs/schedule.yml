@@ -147,6 +147,7 @@ Level 3 - Big Data:
         Decade trends, heat waves [assignment]: /bigdata/en/weather7
         Submit [submit]: /submit/mod3/c-weather7
 
+
 Level 4 - Monopoly:
     Scientific Programming 2 - Level 4 (Monopoly):
     4.1 Monopoly 1 [0pt.]:
@@ -164,12 +165,16 @@ Level 4 - Monopoly:
     Make sure to [discuss] your solutions in person after completing this level!:
     4.4 Challenge 1 [1.5pt.]:
         Not required to pass, but needed for high grade:
-        Learn how to create animated graphics [theory]: /animation/en/explanation
+        Learn how to create animated graphics [theory]: /animation/en/explanation-gif
         Spiral [assignment]: /animation/en/dot
         Buzzed student [assignment]: /animation/en/student
         Submit [submit]: /submit/mod4/c-animation
     4.5 Challenge 2 [1.5pt.]:
         Not required to pass, but needed for high grade:
+        Improve monopoly design and extend to many players: /monopoly/en/n-player
+        Submit [submit]: /submit/mod4/c-monopoly-n-player
+    4.6 BONUS challenge [1 extra point]:
+        Extra credit:
         Conway’s Game of Life [assignment]: /algorithms/en/conway
         Submit Conway: /submit/mod4/c-conway
 
@@ -191,6 +196,7 @@ Level 5 - Monopoly 2:
 
 Level 6 - Survival:
     Introduction: /survival/
+
     6.1 Function arguments:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs

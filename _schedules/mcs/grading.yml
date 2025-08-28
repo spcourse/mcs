@@ -52,7 +52,20 @@ templates:
         hide_calculated: false
         hide_subgrades: false
 
-    6: &testt
+    6: &grade2-bonus
+        type: float
+        subgrades:
+            correctness_base: float
+            challenge_1: boolean
+            challenge_2: boolean
+            bonus: boolean
+        calculation: "(1.0 + 6.0 * correctness_base / 10 + challenge_1 * -1.5 + challenge_2 * -1.5 + bonus * -1.0).round(1)"
+        auto_publish: false
+        hide_calculated: false
+        hide_subgrades: false
+
+
+    7: &testt
         type: boolean
         subgrades:
             passed: boolean
@@ -71,7 +84,7 @@ grades:
     m1-grade: *grade3
     m2-grade: *grade3
     m3-grade: *grade3
-    m4-grade: *grade2
+    m4-grade: *grade2-bonus
     m5-grade: *grade3
     m6-grade: *grade1
 
@@ -108,6 +121,7 @@ grades:
     4_1m: *auto
     4_2m: *auto
     c-animation: *check
+    c-monopoly-n-player: *check
     c-conway: *check
 
     5_1m: *auto
@@ -184,6 +198,7 @@ level_4_monopoly_L4mo1:
         4_1m: 1
         4_2m: 1
         c-animation: 1
+        c-monopoly-n-player: 1
         c-conway: 1
 
 level_5_monopoly2_L5mo2:
