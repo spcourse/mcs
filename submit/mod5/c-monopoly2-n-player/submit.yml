@@ -1,0 +1,4 @@
+name: c-monopoly2-n-player
+files:
+    required:
+        - monopoly_dicts2.py

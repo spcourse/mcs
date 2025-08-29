@@ -1,5 +1,0 @@
-name: c-generate-word-list
-files:
-    optional:
-        - generate-word-list.py
-        - generate-tf-idf.py

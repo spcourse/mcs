@@ -30,6 +30,10 @@ monopoly:
     branch: main
 
 # M5
+monopoly2:
+    remote: https://github.com/spcourse/monopoly_dict.git
+    branch: main
+
 shakespeare:
     remote: https://github.com/spcourse/shakespeare.git
     branch: main

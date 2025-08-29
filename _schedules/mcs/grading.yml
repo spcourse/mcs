@@ -85,7 +85,7 @@ grades:
     m2-grade: *grade3
     m3-grade: *grade3
     m4-grade: *grade2-bonus
-    m5-grade: *grade3
+    m5-grade: *grade2
     m6-grade: *grade1
 
 
@@ -125,8 +125,10 @@ grades:
     c-conway: *check
 
     5_1m: *auto
-    5_2m: *check
-    5_3m: *auto
+    5_2m: *auto
+    5_3m: *check
+    c-datastructures2: *auto
+    c-monopoly2-n-player: *check
 
     6_1s: *check
     6_2s: *check
@@ -208,7 +210,9 @@ level_5_monopoly2_L5mo2:
         5_1m: 1
         5_2m: 1
         5_3m: 1
-
+        c-datastructures2: 1
+        c-monopoly2-n-player: 1
+        
 level_6_survival_L6sur:
     show_progress: true
     small_block_overview: true
