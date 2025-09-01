@@ -3,7 +3,7 @@ templates:
         type: float
         subgrades:
             points: integer
-        calculation: (points >= 9) && points || 0
+        calculation: (points >= 10) && points || 0
         automatic:
             points: (correctness_score * 10).floor
         auto_publish: true
