@@ -77,6 +77,16 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    8: &quiz
+        type: boolean
+        subgrades:
+            checkpy: float
+        automatic:
+            checkpy: correctness_score * 10
+        calculation: "checkpy >= 10"
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: false
 
 
 grades:
@@ -134,6 +144,7 @@ grades:
     6_2s: *check
     c-survival: *check
 
+    q1: *quiz
     exam1: *testt
     exam2: *testt
 
@@ -149,6 +160,11 @@ module_grades:
         m4-grade: 1
         m5-grade: 1
         m6-grade: 1
+
+quizes:
+    show_progress: true
+    submits:
+        q1: 1
 
 level_1_numbers_l1num:
     show_progress: true
