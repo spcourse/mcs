@@ -66,7 +66,7 @@ templates:
 
 
     7: &testt
-        type: boolean
+        type: pass
         subgrades:
             passed: boolean
             checkpy: float
@@ -78,12 +78,12 @@ templates:
         hide_subgrades: false
 
     8: &quiz
-        type: boolean
+        type: pass
         subgrades:
             checkpy: float
         automatic:
             checkpy: correctness_score * 10
-        calculation: "checkpy >= 10"
+        calculation: (checkpy >= 10) && -1 || 0
         auto_publish: true
         hide_calculated: true
         hide_subgrades: false
