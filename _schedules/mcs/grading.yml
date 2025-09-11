@@ -146,6 +146,9 @@ grades:
 
     1_1quiz: *quiz
     1_2quiz: *quiz
+    2_1quiz: *quiz
+    2_2quiz: *quiz
+
     exam1: *testt
     exam2: *testt
 
@@ -167,7 +170,9 @@ quizes:
     submits:
         1_1quiz: 1
         1_2quiz: 1
-
+        2_1quiz: 1
+        2_2quiz: 1
+        
 level_1_numbers_l1num:
     show_progress: true
     small_block_overview: true
