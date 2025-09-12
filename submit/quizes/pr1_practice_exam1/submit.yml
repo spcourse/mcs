@@ -1,0 +1,22 @@
+name: pr1_practice_exam1
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("practice1", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: spcourse/quizes
+    args: practice1
+files:
+    required:
+        'practice1.py': |
+            # Solution
+
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
+
+
+   

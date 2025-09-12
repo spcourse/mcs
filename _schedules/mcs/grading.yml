@@ -66,15 +66,14 @@ templates:
 
 
     7: &testt
-        type: pass
+        type: float
         subgrades:
-            passed: boolean
             checkpy: float
         automatic:
-            checkpy: correctness_score * 10
+            checkpy: correctness_score * 9 + 1
         calculation: passed
-        auto_publish: false
-        hide_calculated: true
+        auto_publish: true
+        hide_calculated: false
         hide_subgrades: false
 
     8: &quiz
@@ -149,6 +148,7 @@ grades:
     2_1quiz: *quiz
     2_2quiz: *quiz
 
+    pr1_practice_exam1: *testt
     exam1: *testt
     exam2: *testt
 
@@ -245,5 +245,7 @@ level_6_survival_L6sur:
         c-survival: 1
 
 
-
-
+practice_exams:
+    show_progress: true
+    submits:
+        pr1_practice_exam1: 1
