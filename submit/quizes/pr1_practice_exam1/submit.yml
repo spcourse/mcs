@@ -3,15 +3,15 @@ exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("practice1", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("mcs_practice1", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/quizes
-    args: practice1
+    args: mcs_practice1
 files:
     required:
-        'practice1.py': |
+        'mcs_practice1.py': |
             # Solution
 
         'temp.py': |
