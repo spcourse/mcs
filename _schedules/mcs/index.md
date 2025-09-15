@@ -111,10 +111,10 @@ Deadlines for each level are listed below.
 |---------------|---------------------|
 | Level 1       | Fri **5 Sep** 2025  |
 | Level 2       | Fri **12 Sep** 2025 |
-| Level 3       | Fri **19 Sep** 2025 |
-| Level 4       | Fri **26 Sep** 2025 |
-| Level 5       | Fri **3 Oct** 2025  |
-| Level 6       | Fri **10 Oct** 2025 |
+| Level 3       | Fri **19 Sep** 2025 (extended: Mon **22 Sep**) |
+| Level 4       | Fri **26 Sep** 2025 (extended: Mon **29 Sep**) |
+| Level 5       | Fri **3 Oct** 2025  (extended: Mon **6 Oct**)  |
+| Level 6       | Fri **10 Oct** 2025 (extended: Mon **13 Oct**) |
 |               |                     |
 | Exam          | Tue **21 Oct** 2025 |
 |---------------|---------------------|

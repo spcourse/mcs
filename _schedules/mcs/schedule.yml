@@ -4,6 +4,21 @@ Welcome:
     Terra:
         Set-up the programming environment: /python/en/installing/terra
 
+Instal Python on your own computer: 
+    Intro: /python/en/installing/intro
+    Install Python on Windows:
+        Step 1 install Miniconda: /python/en/installing/miniconda-win
+        Step 2 install Pulsar: /python/en/installing/pulsar
+        Step 3 command line interface: /python/en/installing/cli-win
+        Step 4 install Conda environment: /python/en/installing/conda-env-sp
+        Step 5 checkpy: /python/en/installing/checkpy-sp
+    Install Python on MacOS:
+        Step 1 install Miniconda: /python/en/installing/miniconda-mac
+        Step 2 install Pulsar: /python/en/installing/pulsar
+        Step 3 command line interface: /python/en/installing/cli-mac
+        Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
+        Step 5 checkpy: /python/en/installing/checkpy-sp
+
 Level 1 - Number Theory:
     1.1 Output [1pt.]:
         Hello, world [assignment]: /shorts/hello
@@ -114,6 +129,9 @@ Level 2 - Numerical Integration:
         Not required to pass, but needed for high grade:
         Plot Min Max [assignment]: /plot/en/plot_mm
         Submit Plot Min Max (21 jan): /submit/mod2i/c-plot-min-max
+
+
+
 
 Level 3 - Big Data:
     3.1 Car [2pt.]:
