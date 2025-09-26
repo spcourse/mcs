@@ -136,6 +136,7 @@ grades:
     5_1m: *auto
     5_2m: *auto
     5_3m: *check
+    c-counting-visits: *check
     c-datastructures2: *auto
     c-monopoly2-n-player: *check
 
