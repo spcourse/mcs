@@ -207,8 +207,8 @@ Level 5 - Monopoly 2:
         Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
         Submit [submit]: /submit/mod5/s1
     5.2 Monopoly with dicts [3pt.]:
-        Dictionary examples [theory]: /monopoly2/using_dicts_theory
-        Use dicts and sets to imporove Monopoly [theory]: /monopoly2/monopoly_config
+        Dictionaries practical examples [theory]: /monopoly_dict/using_dicts_theory
+        Use dicts and sets to imporove Monopoly [theory]: /monopoly_dict/monopoly_config
         Submit [submit]: /submit/mod5/s2
     5.3 Computational complexity [1pt.]:
         Complexity 1 [theory]: /python/en/complexity-intro
@@ -217,11 +217,14 @@ Level 5 - Monopoly 2:
         Complexity questions [individual]: /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5/s3
     Make sure to [discuss] your solutions in person after completing this level!:
-    5.4 Challenge 1 [1.5pt.]:
+    5.4 Challenge 1 [1 pt.]:
+        Annalyzing the board: /monopoly_dict/counting_visits
+        Submit [submit]: /submit/mod5/c-counting-visits
+    5.5 Challenge 2 [1 pt.]:
         Not required to pass, but needed for high grade:
         Use dictionaries and sets - part 2 [assignment]: /python/en/datastructures-practice/part2
         Submit [submit]: /submit/mod5/c-datastructures2
-    5.5 Challenge 2 [1.5pt.]:
+    5.6 Challenge 3 [1 pt.]:
         Not required to pass, but needed for high grade:
         Improve monopoly design and extend to many players: /monopoly2/n-player
         Submit [submit]: /submit/mod5/c-monopoly2-n-player

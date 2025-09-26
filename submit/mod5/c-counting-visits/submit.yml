@@ -1,0 +1,7 @@
+name: c-counting-visits
+files:
+    requires:
+        - monopoly_visits.py
+        - visits.png
+        - jail_visits.png
+

@@ -30,7 +30,7 @@ monopoly:
     branch: main
 
 # M5
-monopoly2:
+monopoly_dict:
     remote: https://github.com/spcourse/monopoly_dict.git
     branch: main
 
