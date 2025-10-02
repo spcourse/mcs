@@ -42,7 +42,10 @@ shakespeare:
 survival:
     remote: https://github.com/spcourse/survival.git
     branch: main
-
+pandas:
+    remote: https://github.com/spcourse/pandas.git
+    branch: main
+    
 #### General
 
 python:
