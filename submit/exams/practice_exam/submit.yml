@@ -1,0 +1,55 @@
+name: practice_exam
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("mcs_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: spcourse/quizes
+    args: mcs_practice_exam
+files:
+    required:
+        'mcs_practice_exam.py': |
+            # Solutions
+
+            # Question 1
+
+            # Question 2
+
+            orders = {
+                "Aisha Khan": ["Kindle", "Trailmix"],
+                "Lucas van Dijk": ["Fitbit", "Gödel, Escher, Bach"],
+                "Mei Lin": ["Unplugged"],
+                "Omar Haddad": ["McLaren 750s", "Fitbit"],
+                "Sofia Rossi": ["Trailmix", "Kindle", "Unplugged"],
+                "Diego Martínez": ["Gödel, Escher, Bach"],
+                "Anna Kowalska": ["Fitbit", "Trailmix"],
+                "Kwame Mensah": ["Kindle", "McLaren 750s"],
+                "Yuki Tanaka": ["Unplugged", "Fitbit"],
+                "Fatima El-Sayed": ["Trailmix", "Gödel, Escher, Bach"]
+            }
+
+            replacements = {
+                "Unplugged": "Nevermind",
+                "Trailmix": "Popcorn",
+                "McLaren 750s": "Toyota Yaris"
+            }
+
+            # Question 3
+
+            people = ["Jan", "Piet", "Anne", "Marieke", "Robin", "Jeroen",
+                "Femke", "Kim", "Bas", "Noor", "Lieke", "Sam"]
+            ages = [12, 52, 15, 29, 18, 41, 26, 4, 47, 16, 24, 13]
+
+            # Question 4
+
+            # Question 5
+
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
+
+
+   

@@ -150,6 +150,7 @@ grades:
     2_2quiz: *quiz
 
     pr1_practice_exam1: *testt
+    practice_exam: *testt
     exam1: *testt
     exam2: *testt
 
@@ -239,7 +240,7 @@ level_5_monopoly2_L5mo2:
         c-monopoly2-n-player: 1
         
 level_6_survival_L6sur:
-    show_progress: true
+    
     small_block_overview: true
     submits:
         6_1s: 1
@@ -251,3 +252,6 @@ practice_exams:
     show_progress: true
     submits:
         pr1_practice_exam1: 1
+        practice_exam: 1
+
+
