@@ -234,6 +234,7 @@ level_5_monopoly2_L5mo2:
         5_1m: 1
         5_2m: 1
         5_3m: 1
+        c-counting-visits: 1
         c-datastructures2: 1
         c-monopoly2-n-player: 1
         
