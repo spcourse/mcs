@@ -94,7 +94,7 @@ grades:
     m2-grade: *grade3
     m3-grade: *grade3
     m4-grade: *grade2-bonus
-    m5-grade: *grade2
+    m5-grade: *grade3
     m6-grade: *grade1
 
 
