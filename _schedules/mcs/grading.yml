@@ -240,7 +240,7 @@ level_5_monopoly2_L5mo2:
         c-monopoly2-n-player: 1
         
 level_6_survival_L6sur:
-    
+    show_progress: true
     small_block_overview: true
     submits:
         6_1s: 1
