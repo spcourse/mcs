@@ -250,6 +250,7 @@ level_6_survival_L6sur:
 
 practice_exams:
     show_progress: true
+    small_block_overview: true
     submits:
         pr1_practice_exam1: 1
         practice_exam: 1
