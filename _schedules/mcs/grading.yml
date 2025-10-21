@@ -87,6 +87,17 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    7: &examtest
+        type: float
+        subgrades:
+            checkpy: float
+            correct_questions: float
+        automatic:
+            checkpy: correctness_score * 9 + 1
+        calculation: correct_questions * 1.8 + 1
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
 
 grades:
     #### SP 1 ####
@@ -151,8 +162,8 @@ grades:
 
     pr1_practice_exam1: *testt
     practice_exam: *testt
-    exam1: *testt
-    exam2: *testt
+    exam1: *examtest
+    exam2: *examtest
 
 
 ########### SP 1 ###########
