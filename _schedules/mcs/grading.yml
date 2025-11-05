@@ -169,6 +169,7 @@ grades:
 ########### SP 1 ###########
 
 module_grades:
+    minimum: 5.5
     show_progress: true
     submits:
         m1-grade: 1
@@ -267,11 +268,13 @@ practice_exams:
         practice_exam: 1
 
 exam1:
+    minimum: 5.5
     show_progress: true
     submits:
         exam1: 1
 
 exam2:
+    minimum: 5.5
     show_progress: true
     submits:
         exam2: 1
