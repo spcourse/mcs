@@ -1,0 +1,35 @@
+name: exam2
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("mcs_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: spcourse/quizes
+    args: mcs_exam
+files:
+    required:
+        'mcs_exam.py': |
+            # Exam Programming for Minor Computational Science
+
+            print("Welcome to the exam!")
+
+            # Assignment 1
+
+            # Assignment 2
+
+            # Assignment 3
+
+            # Assignment 4
+
+            # Assignment 5
+
+
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
+
+
+   
