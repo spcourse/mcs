@@ -1,26 +1,17 @@
 Welcome:
     First read the syllabus:
        Syllabus: /syllabus
-    Work in progress:
-        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+    Installation Windows:
         Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise - course folders: /python/en/installing/uv/cli-exercise-mcs
+        Python setup with uv (Windows ): /python/en/installing/uv/install-win
+        Exercise - first files in Zed: /python/en/installing/uv/zed-exercise-mcs
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise - course folders: /python/en/installing/uv/cli-exercise-mcs
         Python setup with uv (macOS/Linux): /python/en/installing/uv/install-mac
-        Python setup with uv (Windows): /python/en/installing/uv/install-win
+        Exercise - first files in Zed: /python/en/installing/uv/zed-exercise-mcs
 
-Instal Python on your own computer:
-    Intro: /python/en/installing/intro
-    Install Python on Windows:
-        Step 1 install Miniconda: /python/en/installing/miniconda-win
-        Step 2 install Pulsar: /python/en/installing/pulsar
-        Step 3 command line interface: /python/en/installing/cli-win
-        Step 4 install Conda environment: /python/en/installing/conda-env-sp
-        Step 5 checkpy: /python/en/installing/checkpy-sp
-    Install Python on MacOS:
-        Step 1 install Miniconda: /python/en/installing/miniconda-mac
-        Step 2 install Pulsar: /python/en/installing/pulsar
-        Step 3 command line interface: /python/en/installing/cli-mac
-        Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
-        Step 5 checkpy: /python/en/installing/checkpy-sp
 
 Level 1 - Number Theory:
     1.1 Output [1pt.]:
