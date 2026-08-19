@@ -2,7 +2,10 @@ Welcome:
     First read the syllabus:
        Syllabus: /syllabus
     Work in progress:
-        Command line and Python setup with uv: /python/en/installing/uv/install
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/install-mac
+        Python setup with uv (Windows): /python/en/installing/uv/install-win
 
 Instal Python on your own computer:
     Intro: /python/en/installing/intro
