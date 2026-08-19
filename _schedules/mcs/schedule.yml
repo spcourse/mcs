@@ -3,14 +3,14 @@ Welcome:
        Syllabus: /syllabus
     Installation Windows:
         Command line (Windows): /python/en/installing/uv/cli-win
-        Exercise 1, course folders: /python/en/installing/uv/cli-exercise-mcs
-        Python setup with uv (Windows): /python/en/installing/uv/install-win
-        Exercise 2, first files in Zed: /python/en/installing/uv/zed-exercise-mcs
+        Exercise 1, course folders: /python/en/installing/uv/mcs/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/mcs/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/mcs/zed-exercise
     Installation macOS/Linux:
         Command line (macOS/Linux): /python/en/installing/uv/cli-mac
-        Exercise 1, course folders: /python/en/installing/uv/cli-exercise-mcs
-        Python setup with uv (macOS/Linux): /python/en/installing/uv/install-mac
-        Exercise 2, first files in Zed: /python/en/installing/uv/zed-exercise-mcs
+        Exercise 1, course folders: /python/en/installing/uv/mcs/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/mcs/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/mcs/zed-exercise
 
 
 Level 1 - Number Theory:
