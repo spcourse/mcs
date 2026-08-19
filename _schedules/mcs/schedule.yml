@@ -1,10 +1,10 @@
 Welcome:
     First read the syllabus:
        Syllabus: /syllabus
-    Terra:
-        Set-up the programming environment: /python/en/installing/terra
+    Work in progress:
+        Command line and Python setup with uv: /python/en/installing/uv/install
 
-Instal Python on your own computer: 
+Instal Python on your own computer:
     Intro: /python/en/installing/intro
     Install Python on Windows:
         Step 1 install Miniconda: /python/en/installing/miniconda-win
