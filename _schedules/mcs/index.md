@@ -67,13 +67,13 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
 .weeks .exam { background: #ecd3c5; color: #6d3a20; }
 .weeks .req  { border-left: 4px solid #6b6455; font-weight: bold; }
 .weeks .note { display: block; font-size: 0.85em; font-style: italic; color: #6b6455; }
-.weeks .dl   { white-space: nowrap; }
+.weeks .dl   { background: #ff0000; color: #5d4713; }
 .legend .lec, .legend .lab, .legend .test, .legend .exam { display: inline-block; margin-right: 0.4em; }
 </style>
 
 <table class="weeks">
   <thead>
-    <tr><th></th><th>Monday</th><th>Tuesday</th><th>Friday</th><th>Deadline</th></tr>
+    <tr><th></th><th>Monday</th><th>Tuesday</th><th>Friday</th></tr>
   </thead>
   <tbody>
     <tr>
@@ -85,9 +85,9 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
     </tr>
     <tr>
       <th>Week 2<span>7 - 11 Sep</span></th>
-      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13 lab (compulsory), L0.11</span></td>
-      <td><span class="lab req">11-13, lab (compulsory), L0.11</span><span class="dl">deadline: level 1</span></td>
-      <td><span class="lab req">11-13, lab (compulsory), L0.11</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13 lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span><span class="dl">deadline: level 1</span></td>
+      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
     </tr>
     <tr>
       <th>Week 3<span>14 - 18 Sep</span></th>
