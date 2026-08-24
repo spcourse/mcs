@@ -67,8 +67,8 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
 .weeks .exam { background: #ecd3c5; color: #6d3a20; }
 .weeks .req  { }
 .weeks .note { display: block; font-size: 0.85em; font-style: italic; color: #6b6455; }
-.weeks .dl   { background: #ff0000; color: #5d4713; }
-.legend .lec, .legend .lab, .legend .test, .legend .exam { display: inline-block; margin-right: 0.4em; }
+.weeks .dl   { background: #e8cfd2; color: #662e35; }
+.legend .lec, .legend .lab, .legend .test, .legend .exam .dl { display: inline-block; margin-right: 0.4em; }
 </style>
 
 <table class="weeks">
