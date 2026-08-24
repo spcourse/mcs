@@ -128,6 +128,12 @@ Below is the week-by-week overview.
 
 The resit exam is on **Wednesday 6 January 2027**, 13:00 - 15:00, in IWO 4.04B (Geel).
 
+### Deadlines {#deadlines}
+
+The deadlines are shown in the table above. They are strict, but there is some leniency. You can submit up to three levels a few days after the deadline. If you need to submit more than three levels late, please **contact the teacher** before continuing the course.
+
+If you notice that you're falling structurally behind, please contact the teacher to make a plan to catch up.
+
 The official timetable is on [DataNose](https://datanose.nl/#course[147421]).
 
 ### Attendance {#attendance}
@@ -241,44 +247,6 @@ Here below is an overview of all modules. Click a module title to read what it i
   </tr>
 </table>
 
-## Deadlines {#deadlines}
-
-**Fall 2026–2027**
-
-Each level has to be submitted by the date below.
-
-<style>
-.deadlines {
-  width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
-  border-collapse: separate; border-spacing: 3px 4px;
-}
-.deadlines, .deadlines thead, .deadlines tbody, .deadlines tr,
-.deadlines th, .deadlines td { background: transparent; }
-.deadlines th, .deadlines td { border: none; padding: 0.35em 0.6em; text-align: left; }
-.deadlines .date { white-space: nowrap; }
-.deadlines .mod { color: #6b6455; }
-</style>
-
-<table class="deadlines">
-  <thead>
-    <tr><th>Date</th><th>Deadline</th></tr>
-  </thead>
-  <tbody>
-    <tr><td class="date">Tue 8 Sep</td><td>Level 1 <span class="mod">(Numbers)</span></td></tr>
-    <tr><td class="date">Tue 15 Sep</td><td>Level 2 <span class="mod">(Integration)</span></td></tr>
-    <tr><td class="date">Tue 22 Sep</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
-    <tr><td class="date">Tue 29 Sep</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
-    <tr><td class="date">Tue 6 Oct</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
-    <tr><td class="date">Tue 13 Oct</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
-    <tr><td class="date">Mon 19 Oct</td><td><b>Exam</b> <span class="mod">— 13:00-15:00, USC Universum Sporthal 1</span></td></tr>
-    <tr><td class="date">Wed 6 Jan</td><td><b>Resit</b> <span class="mod">— 13:00-15:00, IWO 4.04B (Geel)</span></td></tr>
-  </tbody>
-</table>
-
-Deadlines are strict, but there is some leniency. You can submit up to three levels a few days after the deadline. If you need to submit more than three levels late, please **contact the teacher** before continuing the course.
-
-If you notice that you're falling structurally behind, please contact the teacher to make a plan to catch up.
-
 ## Grading {#grading}
 
 Programming for minor Computational Science is a graded course.
@@ -295,7 +263,7 @@ Your final grade is built from three components:
 
 To pass the course you need:
 
-- a final grade of **5.5** or higher;
+- a rounded final grade of **6.0** or higher;
 - at least a **5.5** for the final exam;
 - all levels *submitted* and *discussed* in person (Level 6 excepted, see below).
 
@@ -303,40 +271,46 @@ There is no minimum grade per level — a weak level can be compensated by the r
 
 #### Coursework (modules)
 
-- Each level is graded on a scale from 1 to 10. The grade is determined by how many
-  assignments you handed in correctly. **If you complete all the base assignments of a
-  level you get a 7.** Everything above a 7 comes from the challenges.
+Each level is graded on a scale from 1 to 10. The grade is determined by how many
+assignments you handed in correctly. 
 
-  - **Normal assignments** are compulsory; you must complete all of them with correct
-    results to pass the level.
-  - **Challenges** are not compulsory, but they are what lifts your grade above a 7, and we
-    highly recommend completing at least one per level to be fully prepared for the exam
-    and/or future courses.
+Each level consists of theory sections, assignments and challenges. In the schedule
+you will see these icons:
 
-- **Level 6 (Populations) is a challenge in its own right**: it consists only of challenge
-  work. You can still pass the course without it, but it will cost you points on your
-  coursework grade.
-- Level 4 has one extra **bonus** challenge on top of the regular two.
+<ul class="types">
+  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16"><path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"/></svg> <b>Collaborative assignments</b>: you are encouraged to work on these
+      together with other students, and copying each other's code is no problem here.</li>
+  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16"><path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/></svg> <b>Individual assignments</b>: you make these entirely on your own
+      (with our help, of course). You may not copy code from anyone else.</li>
+  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16"><path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4m9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382zM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"/></svg> <b>Challenges</b>: optional, considerably harder assignments,
+      for when you want to get the most out of this course.</li>
+</ul>
+
+If you complete all the base assignments of a level you get a 7. Everything above a 7 comes from the challenges.
+
+- The **individual** assignmenst and the **collaborative** assignments togehter are the 
+  base assignemnts. If you complete them all you get a 7.
+- The **challenges** are not compulsory, but they allow you to get a grade above a 7. We
+  also highly recommend completing at least one per level to be fully prepared for the exam
+  and/or future courses.
+
+Some additional remarks:
+- Level 6 (Populations) is semi-optional: You can still pass the course without it, 
+  but it will cost you points on your coursework grade.
 - For a challenge to count you have to be able to explain your code to a teacher.
-- Some assignments are marked as *collaborative* assignments. For those you can (we even
-  encourage you to) work together, so you can learn from other students. For *individual*
-  assignments, however, we expect them to be entirely your own work.
 - After you have submitted all parts of a level, **you need to come to a lab and discuss
   your code in person**. Only then do you get the grade for that level.
-- You may not re-submit (variations of) solutions that you wrote for any other course's
-  problems. In case you have done similar assignments before, discuss with the course staff
-  whether this is the right course for you.
 
 #### Tests
 
 - There are three short programming tests, taken during the Monday lab:
   **14 September**, **28 September** and **12 October**.
 - Their average counts for 10% of your final grade.
-- If you fail a test, the **Tuesday lab** of that week is compulsory for you.
+- If you fail a test, the **Tuesday lab** of that week is compulsory for you. We will discuss the test and do a resit for it at the end of the session.
 
 #### Final exam
 
-- The final exam is an (on campus) programming exam in a controlled setting, on your own
+- The final exam is an (on campus) programming exam in a controlled setting, on an exam
   laptop. This will take about 2 hours. It contains a couple of small programming
   assignments, and is graded on a scale from 1 to 10.
 - The exam is on **Monday 19 October, 13:00-15:00**, in USC Universum Sporthal 1.
@@ -346,9 +320,6 @@ There is no minimum grade per level — a weak level can be compensated by the r
 
 * No prior programming experience required.
 * Some levels assume **high-school level mathematics**.
-* If you already have substantial programming experience, this course may not be appropriate—contact staff for advice.
-
-If at any point you feel unsure whether this course fits your background, please contact us.
 
 ## Learning goals {#learning-goals}
 
