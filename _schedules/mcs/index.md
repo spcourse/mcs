@@ -57,7 +57,7 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
 .weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
 .weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
 .weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
-.weeks .lec, .weeks .lab, .weeks .test, .weeks .exam, .weeks .disc {
+.weeks .lec, .weeks .lab, .weeks .test, .weeks .exam, .weeks .disc .dl {
   display: block; padding: 0.3em 0.5em; border-radius: 4px; margin-bottom: 0.2em;
 }
 .weeks .lec  { background: #f0e2be; color: #5d4713; }
@@ -65,7 +65,7 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
 .weeks .test { background: #d3e0dc; color: #2d4a43; }
 .weeks .disc { background: #d3e0dc; color: #2d4a43; }
 .weeks .exam { background: #ecd3c5; color: #6d3a20; }
-.weeks .req  { border-left: 4px solid #6b6455; font-weight: bold; }
+.weeks .req  { }
 .weeks .note { display: block; font-size: 0.85em; font-style: italic; color: #6b6455; }
 .weeks .dl   { background: #ff0000; color: #5d4713; }
 .legend .lec, .legend .lab, .legend .test, .legend .exam { display: inline-block; margin-right: 0.4em; }
@@ -86,7 +86,7 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
     <tr>
       <th>Week 2<span>7 - 11 Sep</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13 lab, L0.11 (compulsory)</span></td>
-      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span><span class="dl">deadline: level 1</span></td>
+      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span><span class="dl">23:59 deadline: level 1</span></td>
       <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
     </tr>
     <tr>
