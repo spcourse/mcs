@@ -15,113 +15,113 @@ Welcome:
 
 Level 1 - Number Theory:
     1.1 Output [1pt.]:
-        Hello, world [assignment]: /shorts/hello
+        "[icon:people-fill] Hello, world": /shorts/hello
         Submit [submit]: /submit/mod1n/s1
     1.2 Input and Calculations [1pt.]:
         Basics [theory]: /python/en/basics
-        Number Whiz [assignment]: /numbers/en/whiz
-        Divide [assignment]: /shorts/oranges
+        "[icon:people-fill] Number Whiz": /numbers/en/whiz
+        "[icon:person-fill] Divide": /shorts/oranges
         Submit [submit]: /submit/mod1n/s2
     1.3 If-then [1pt.]:
         Algorithms [theory]: /python/en/algorithms
-        Less Than [assignment]: /shorts/less_than
-        First Year [assignment]: /shorts/first_year
-        First or Last Year [assignment]: /shorts/first_or_last_year
-        Leap Year [assignment]: /shorts/leap_year
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:person-fill] First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
         Submit [submit]: /submit/mod1n/s3
     1.4 Loops 1 (For) [1pt.]:
         For Loops [theory]: /python/en/loops/for
-        Between [assignment]: /shorts/between
-        Buzz [assignment]: /shorts/buzz
-        Sum [assignment]: /shorts/sum
-        Leap Years [assignment]: /shorts/leap_years
-        Count Leap Years [assignment]: /shorts/count_leap_years
-        Newton [assignment]: /shorts/newton
-        Check Prime [assignment]: /numbers/en/check-prime
+        "[icon:people-fill] Between": /shorts/between
+        "[icon:people-fill] Buzz": /shorts/buzz
+        "[icon:person-fill] Sum": /shorts/sum
+        "[icon:people-fill] Leap Years": /shorts/leap_years
+        "[icon:person-fill] Count Leap Years": /shorts/count_leap_years
+        "[icon:people-fill] Newton": /shorts/newton
+        "[icon:person-fill] Check Prime": /numbers/en/check-prime
         Submit [submit]: /submit/mod1n/s4
     1.5 Loops 2 (While) [1pt.]:
         While Loops [theory]: /python/en/loops/while
         Loops examples [theory]: /python/en/loops/practical-uses
-        Elmo [samen]: /shorts/elmo
-        Positive [assignment]: /shorts/positive
-        Sum Until [assignment]: /shorts/sum_until
-        Birthday [assignment]: /numbers/en/birthday
-        1001 Primes [assignment]: /numbers/en/n-primes
+        "[icon:people-fill] Elmo": /shorts/elmo
+        "[icon:person-fill] Positive": /shorts/positive
+        "[icon:people-fill] Sum Until": /shorts/sum_until
+        "[icon:people-fill] Birthday": /numbers/en/birthday
+        "[icon:person-fill] 1001 Primes": /numbers/en/n-primes
         Submit [submit]: /submit/mod1n/s5
     1.6 Lists [1pt.]:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
-        Positive List [assignment]: /shorts/positive_list
-        Odd [samen]: /shorts/odd
-        Average [assignment]: /shorts/average
-        Squares [assignment]: /shorts/squares
-        Prime List [assignment]: /numbers/en/primelist
+        "[icon:people-fill] Positive List": /shorts/positive_list
+        "[icon:people-fill] Odd": /shorts/odd
+        "[icon:people-fill] Average": /shorts/average
+        "[icon:person-fill] Squares": /shorts/squares
+        "[icon:person-fill] Prime List": /numbers/en/primelist
         Submit [submit]: /submit/mod1n/s6
     Make sure to [discuss] your solutions in person after completing this level!:
     1.7 Challenge 1 [1pt.]:
         Not required to pass, but needed for high grade:
-        Goldbach [assignment]: /numbers/en/goldbach
+        "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
         Submit Goldbach: /submit/mod1n/c-goldbach
     1.8 Challenge 2 [1pt.]:
         Not required to pass, but needed for high grade:
-        Amicable [assignment]: /numbers/en/amicable
+        "[icon:person-fill-gear] Amicable": /numbers/en/amicable
         Submit Amicable: /submit/mod1n/c-amicable
     1.9 Challenge 3 [1pt.]:
         Not required to pass, but needed for high grade:
-        Eratosthenes [assignment]: /numbers/en/eratosthenes
+        "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
         Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
 Level 2 - Numerical Integration:
     Introduction: /integrals/en/intro2
     2.1 Functions [1pt.]:
         Functions [theory]: /python/en/functions
-        Squared [assignment]: /shorts/squared
-        Min [assignment]: /shorts/min
-        Fun Sum [assignment]: /shorts/fun_sum
-        Max [assignment]: /shorts/max
-        Max Index [assignment]: /shorts/max_index
-        Arange [assignment]: /shorts/arange
+        "[icon:people-fill] Squared": /shorts/squared
+        "[icon:people-fill] Min": /shorts/min
+        "[icon:person-fill] Fun Sum": /shorts/fun_sum
+        "[icon:person-fill] Max": /shorts/max
+        "[icon:person-fill] Max Index": /shorts/max_index
+        "[icon:person-fill] Arange": /shorts/arange
         Submit [submit]: /submit/mod2i/s1
     2.2 Plot [1pt.]:
         Import [theory]: /python/en/modules
         Plot [theory]: /python/en/plotting
-        Plot [assignment]: /plot/en/plot1
-        Roots [assignment]: /integrals/en/roots
-        Plot Min [assignment]: /plot/en/plot2
+        "[icon:people-fill] Plot": /plot/en/plot1
+        "[icon:person-fill] Roots": /integrals/en/roots
+        "[icon:person-fill] Plot Min": /plot/en/plot2
         Submit [submit]: /submit/mod2i/s2
     2.3 Riemann [1pt.]:
         Riemann Sum [theory]: /integrals/en/riemann/explanation
-        Riemann Sum [assignment]: /integrals/en/riemann/integrals
+        "[icon:person-fill] Riemann Sum": /integrals/en/riemann/integrals
         Submit [submit]: /submit/mod2i/s3
     2.4 Strings [1pt.]:
         Strings [theory]: /python/en/strings
-        Vowels [assignment]: /shorts/vowels
-        Longest Word [assignment]: /shorts/longest_word
+        "[icon:people-fill] Vowels": /shorts/vowels
+        "[icon:people-fill] Longest Word": /shorts/longest_word
         Submit [submit]: /submit/mod2i/s4
     2.5 Random [1pt.]:
         Random Numbers [theory]: /python/en/random
-        Random Fact [assignment]: /integrals/en/random/fact
-        Random Distance [assignment]: /integrals/en/random/distance
-        Random Histogram [assignment]: /integrals/en/random/histogram
+        "[icon:people-fill] Random Fact": /integrals/en/random/fact
+        "[icon:person-fill] Random Distance": /integrals/en/random/distance
+        "[icon:person-fill] Random Histogram": /integrals/en/random/histogram
         Submit [submit]: /submit/mod2i/s5
     2.6 Style [1pt.]:
-        Style [assignment]: /style/integrals
+        "[icon:person-fill] Style": /style/integrals
         Submit [submit]: /submit/mod2i/s6
     Make sure to [discuss] your solutions in person after completing this level!:
     2.7 Challenge 1 [1pt.]:
         Not required to pass, but needed for high grade:
         More Function [theory]: /python/en/functions2
         Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
-        Monte Carlo [assignment]: /integrals/en/monte-carlo/integrals
+        "[icon:person-fill-gear] Monte Carlo": /integrals/en/monte-carlo/integrals
         Submit [submit]: /submit/mod2i/c-montecarlo
     2.8 Challenge 2 [1pt.]:
         Not required to pass, but needed for high grade:
-        Egg [assignment]: /integrals/en/monte-carlo/egg
+        "[icon:person-fill-gear] Egg": /integrals/en/monte-carlo/egg
         Submit [submit]: /submit/mod2i/c-egg
     2.9 Challenge 3 [1pt.]:
         Not required to pass, but needed for high grade:
-        Plot Min Max [assignment]: /plot/en/plot_mm
+        "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
         Submit Plot Min Max (21 jan): /submit/mod2i/c-plot-min-max
 
 
@@ -130,33 +130,33 @@ Level 2 - Numerical Integration:
 Level 3 - Big Data:
     3.1 Car [2pt.]:
         Read Files (repeated) [theory]: /python/en/file-io
-        Car Ride [assignment]: /bigdata/en/car
+        "[icon:people-fill] Car Ride": /bigdata/en/car
         Submit [submit]: /submit/mod3/s1
     3.2 Weather 1 [1pt.]:
         More about Functions [theory]: /python/en/functions3
-        Reading the data [assignment]: /bigdata/en/weather1
+        "[icon:person-fill] Reading the data": /bigdata/en/weather1
         Submit [submit]: /submit/mod3/s2
     3.3 Weather 2 [1pt.]:
-        Extremes [assignment]: /bigdata/en/weather2
+        "[icon:person-fill] Extremes": /bigdata/en/weather2
         Submit [submit]: /submit/mod3/s3
     3.4 Weather 3 [1pt.]:
-        Cold, colder, coldest [assignment]: /bigdata/en/weather3
+        "[icon:person-fill] Cold, colder, coldest": /bigdata/en/weather3
         Submit [submit]: /submit/mod3/s4
     3.5 Weather 4 [1pt.]:
-        Plot summer and tropical days [assignment]: /bigdata/en/weather4
+        "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
         Submit [submit]: /submit/mod3/s5
     Make sure to [discuss] your solutions in person after completing this level!:
     3.6 Challenge 1 [1pt.]:
         Not required to pass, but needed for high grade:
-        Heat wave [assignment]: /bigdata/en/weather5
+        "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
         Submit [submit]: /submit/mod3/c-weather5
     3.6 Challenge 2 [1pt.]:
         Not required to pass, but needed for high grade:
-        Decade trends, temperature and freezing [assignment]: /bigdata/en/weather6
+        "[icon:person-fill-gear] Decade trends, temperature and freezing": /bigdata/en/weather6
         Submit [submit]: /submit/mod3/c-weather6
     3.6 Challenge 3 [1pt.]:
         Not required to pass, but needed for high grade:
-        Decade trends, heat waves [assignment]: /bigdata/en/weather7
+        "[icon:person-fill-gear] Decade trends, heat waves": /bigdata/en/weather7
         Submit [submit]: /submit/mod3/c-weather7
 
 
@@ -166,28 +166,28 @@ Level 4 - Monopoly:
         Introduction: /monopoly/en/
         Debugging [theory]: /python/en/debugging
         Main function [theory]: /python/en/main_function
-        Moving around [assignment]: /monopoly/en/moving-around
+        "[icon:people-fill] Moving around": /monopoly/en/moving-around
     4.2 Monopoly 2 [3pt.]:
         Default arguments [theory]: /python/en/default-arguments
-        Money [assignment]: /monopoly/en/money
+        "[icon:person-fill] Money": /monopoly/en/money
         Submit [submit]: /submit/mod4/s1
     4.3 Monopoly 3 [3pt.]:
-        Two players [assignment]: /monopoly/en/two-player
+        "[icon:person-fill] Two players": /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s2
     Make sure to [discuss] your solutions in person after completing this level!:
     4.4 Challenge 1 [1.5pt.]:
         Not required to pass, but needed for high grade:
         Learn how to create animated graphics [theory]: /animation/en/explanation-gif
-        Spiral [assignment]: /animation/en/dot
-        Buzzed student [assignment]: /animation/en/student
+        "[icon:person-fill-gear] Spiral": /animation/en/dot
+        "[icon:person-fill-gear] Buzzed student": /animation/en/student
         Submit [submit]: /submit/mod4/c-animation
     4.5 Challenge 2 [1.5pt.]:
         Not required to pass, but needed for high grade:
-        Improve monopoly design and extend to many players: /monopoly/en/n-player
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly/en/n-player
         Submit [submit]: /submit/mod4/c-monopoly-n-player
     4.6 BONUS challenge [1 extra point]:
         Extra credit:
-        Conway’s Game of Life [assignment]: /algorithms/en/conway
+        "[icon:person-fill-gear] Conway’s Game of Life": /algorithms/en/conway
         Submit Conway: /submit/mod4/c-conway
 
 
@@ -197,30 +197,30 @@ Level 5 - Monopoly 2:
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         List slicing and indexing [theory]: /python/en/slicing
-        Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
+        "[icon:people-fill] Use dictionaries and sets - part 1": /python/en/datastructures-practice/part1
         Submit [submit]: /submit/mod5/s1
     5.2 Monopoly with dicts [3pt.]:
         Dictionaries practical examples [theory]: /monopoly_dict/using_dicts_theory
-        Use dicts and sets to imporove Monopoly [theory]: /monopoly_dict/monopoly_config
+        "[icon:person-fill] Use dicts and sets to improve Monopoly": /monopoly_dict/monopoly_config
         Submit [submit]: /submit/mod5/s2
     5.3 Computational complexity [1pt.]:
         Complexity 1 [theory]: /python/en/complexity-intro
         Complexity 2 [theory]: /python/en/complexity-calculation
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        Complexity questions [individual]: /shakespeare/complexity-questions
+        "[icon:people-fill] Complexity questions": /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5/s3
     Make sure to [discuss] your solutions in person after completing this level!:
     5.4 Challenge 1 [1 pt.]:
         Not required to pass, but needed for high grade:
-        Annalyzing the board: /monopoly_dict/counting_visits
+        "[icon:person-fill-gear] Analyzing the board": /monopoly_dict/counting_visits
         Submit [submit]: /submit/mod5/c-counting-visits
     5.5 Challenge 2 [1 pt.]:
         Not required to pass, but needed for high grade:
-        Use dictionaries and sets - part 2 [assignment]: /python/en/datastructures-practice/part2
+        "[icon:person-fill-gear] Use dictionaries and sets - part 2": /python/en/datastructures-practice/part2
         Submit [submit]: /submit/mod5/c-datastructures2
     5.6 Challenge 3 [1 pt.]:
         Not required to pass, but needed for high grade:
-        Improve monopoly design and extend to many players: /monopoly2/n-player
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly2/n-player
         Submit [submit]: /submit/mod5/c-monopoly2-n-player
 
 
@@ -231,7 +231,7 @@ Level 6 - Survival:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     6.2 Jupyter notebook:
-        Jupyter notebook [practice]: /pandas/notebooks-sp
+        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
     6.3 Pandas [1pt.]:
         Pandas [practice]: /pandas/pandas-sp
         Submit [submit]: /submit/mod6/s1
