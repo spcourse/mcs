@@ -42,7 +42,7 @@ The course runs for seven weeks, from **31 August** to **16 October 2026**, and 
 
 ### Schedule {#schedule}
 
-Below is the week-by-week overview. Sessions marked with a bar are **compulsory**.
+Below is the week-by-week overview.
 
 <style>
 .weeks {
@@ -57,18 +57,17 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
 .weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
 .weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
 .weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
-.weeks .lec, .weeks .lab, .weeks .test, .weeks .exam, .weeks .disc .dl {
+.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl {
   display: block; padding: 0.3em 0.5em; border-radius: 4px; margin-bottom: 0.2em;
 }
 .weeks .lec  { background: #f0e2be; color: #5d4713; }
 .weeks .lab  { background: #dbe3d1; color: #39492a; }
-.weeks .test { background: #d3e0dc; color: #2d4a43; }
 .weeks .disc { background: #d3e0dc; color: #2d4a43; }
 .weeks .exam { background: #ecd3c5; color: #6d3a20; }
-.weeks .req  { }
-.weeks .note { display: block; font-size: 0.85em; font-style: italic; color: #6b6455; }
 .weeks .dl   { background: #e8cfd2; color: #662e35; }
-.legend .lec, .legend .lab, .legend .test, .legend .exam .dl { display: inline-block; margin-right: 0.4em; }
+.weeks .req  { }
+.weeks .test { font-weight: bold; }
+.legend .lec, .legend .lab, .legend .disc, .legend .exam, .legend .dl { display: inline-block; margin-right: 0.4em; }
 </style>
 
 <table class="weeks">
@@ -78,50 +77,49 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
   <tbody>
     <tr>
       <th>Week 1<span>31 Aug - 4 Sep</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span></td>
-      <td><span class="lab req">lab</span></td>
-      <td><span class="lab req">lab</span></td>
-      <td></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span></td>
     </tr>
     <tr>
       <th>Week 2<span>7 - 11 Sep</span></th>
-      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13 lab, L0.11 (compulsory)</span></td>
-      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span><span class="dl">23:59 deadline: level 1</span></td>
-      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span><span class="dl">23:59 deadline: level 1</span></td>
+      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span></td>
     </tr>
     <tr>
       <th>Week 3<span>14 - 18 Sep</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab (compulsory)</span><span class="test req">test 1</span></td>
-      <td><span class="lab">lab (compulsory if you failed test 1)</span></td>
-      <td><span class="lab">lab</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 1</span></span></td>
+      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 1)</span><span class="dl">23:59 deadline: level 2</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 4<span>21 - 25 Sep</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span></td>
-      <td><span class="lab">lab</span></td>
-      <td><span class="lab">lab</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: level 3</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 5<span>28 Sep - 2 Oct</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span><span class="test req">test 2</span></td>
-      <td><span class="lab">lab</span><span class="note">compulsory if you failed test 2</span></td>
-      <td><span class="lab">lab</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 2</span></span></td>
+      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 2)</span><span class="dl">23:59 deadline: level 4</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 6<span>5 - 9 Oct</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span></td>
-      <td><span class="lab">lab</span></td>
-      <td><span class="lab">lab</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: level 5</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 7<span>12 - 16 Oct</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span><span class="test req">test 3</span></td>
-      <td><span class="lab">lab</span><span class="note">compulsory if you failed test 3</span></td>
-      <td><span class="disc">discuss Level 6<br>+ practice exam</span></td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 3</span></span></td>
+      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: level 6</span></td>
+      <td><span class="disc">13-15, discuss level 6 + practice exam, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 8<span>19 - 23 Oct</span></th>
-      <td><span class="exam">exam 13:00 - 15:00<br>USC Universum Sporthal 1</span></td>
+      <td><span class="exam">13-15, exam, USC Universum Sporthal 1</span></td>
       <td></td>
       <td></td>
     </tr>
