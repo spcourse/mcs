@@ -1,4 +1,12 @@
-name: 6_2s
+name: 6_2p
 files:
     required:
-        - seaborn.ipynb
+        - phase5.py
+        - phase6.py
+        - phase7.py
+        - phase8.py
+        - phase9.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: phase5

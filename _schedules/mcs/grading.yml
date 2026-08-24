@@ -151,9 +151,9 @@ grades:
     c-datastructures2: *auto
     c-monopoly2-n-player: *check
 
-    6_1s: *check
-    6_2s: *check
-    c-survival: *check
+    6_1p: *check
+    6_2p: *check
+    c-creative: *check
 
     1_1quiz: *quiz
     1_2quiz: *quiz
@@ -187,7 +187,7 @@ quizes:
         2_1quiz: 1
         2_2quiz: 1
         
-level_1_numbers_l1num:
+module_1_numbers_l1num:
     show_progress: true
     small_block_overview: true
     submits:
@@ -201,7 +201,7 @@ level_1_numbers_l1num:
         c-amicable: 1
         c-eratosthenes: 1
 
-level_2_integration_l2int:
+module_2_integration_l2int:
     show_progress: true
     small_block_overview: true
     submits:
@@ -216,7 +216,7 @@ level_2_integration_l2int:
         c-egg: 1
 
 
-level_3_big_data_l3big:
+module_3_big_data_l3big:
     show_progress: true
     small_block_overview: true
     submits:
@@ -230,7 +230,7 @@ level_3_big_data_l3big:
         c-weather7: 1
 
 
-level_4_monopoly_L4mo1:
+module_4_monopoly_L4mo1:
     show_progress: true
     small_block_overview: true
     submits:
@@ -240,7 +240,7 @@ level_4_monopoly_L4mo1:
         c-monopoly-n-player: 1
         c-conway: 1
 
-level_5_monopoly2_L5mo2:
+module_5_monopoly2_L5mo2:
     show_progress: true
     small_block_overview: true
     submits:
@@ -251,13 +251,13 @@ level_5_monopoly2_L5mo2:
         c-datastructures2: 1
         c-monopoly2-n-player: 1
         
-level_6_survival_L6sur:
+module_6_populations_L6pop:
     show_progress: true
     small_block_overview: true
     submits:
-        6_1s: 1
-        6_2s: 1
-        c-survival: 1
+        6_1p: 1
+        6_2p: 1
+        c-creative: 1
 
 
 practice_exams:

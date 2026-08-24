@@ -84,38 +84,38 @@ Below is the week-by-week overview.
     <tr>
       <th>Week 2<span>7 - 11 Sep</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
-      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span><span class="dl">23:59 deadline: level 1</span></td>
+      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span><span class="dl">23:59 deadline: module 1</span></td>
       <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span></td>
     </tr>
     <tr>
       <th>Week 3<span>14 - 18 Sep</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 1</span></span></td>
-      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 1)</span><span class="dl">23:59 deadline: level 2</span></td>
+      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 1)</span><span class="dl">23:59 deadline: module 2</span></td>
       <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 4<span>21 - 25 Sep</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: level 3</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: module 3</span></td>
       <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 5<span>28 Sep - 2 Oct</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 2</span></span></td>
-      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 2)</span><span class="dl">23:59 deadline: level 4</span></td>
+      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 2)</span><span class="dl">23:59 deadline: module 4</span></td>
       <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 6<span>5 - 9 Oct</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: level 5</span></td>
+      <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: module 5</span></td>
       <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 7<span>12 - 16 Oct</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 3</span></span></td>
-      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: level 6</span></td>
-      <td><span class="disc">13-15, discuss level 6 + practice exam, L0.11</span></td>
+      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: module 6</span></td>
+      <td><span class="disc">13-15, discuss module 6 + practice exam, L0.11</span></td>
     </tr>
     <tr>
       <th>Week 8<span>19 - 23 Oct</span></th>
@@ -130,7 +130,7 @@ The resit exam is on **Wednesday 6 January 2027**, 13:00 - 15:00, in IWO 4.04B (
 
 ### Deadlines {#deadlines}
 
-The deadlines are shown in the table above. They are strict, but there is some leniency. You can submit up to three levels a few days after the deadline. If you need to submit more than three levels late, please **contact the teacher** before continuing the course.
+The deadlines are shown in the table above. They are strict, but there is some leniency. You can submit up to three modules a few days after the deadline. If you need to submit more than three modules late, please **contact the teacher** before continuing the course.
 
 If you notice that you're falling structurally behind, please contact the teacher to make a plan to catch up.
 
@@ -138,7 +138,7 @@ The official timetable is on [DataNose](https://datanose.nl/#course[147421]).
 
 ### Attendance {#attendance}
 
-In the lectures we go through the theory and look at code samples together. In the labs you work on the assignments on campus, together with other students, and you can ask us questions while you work. The labs are also where you discuss your finished levels with us, and where the tests are taken.
+In the lectures we go through the theory and look at code samples together. In the labs you work on the assignments on campus, together with other students, and you can ask us questions while you work. The labs are also where you discuss your finished modules with us, and where the tests are taken.
 
 - The **Monday lab** is compulsory, every week.
 - The **Tuesday and Friday labs** are compulsory in the first two weeks. After that they are optional, with one exception: **if you failed Monday's test, the Tuesday lab of that week is compulsory for you**.
@@ -150,29 +150,9 @@ To begin:
 
 1. Read this syllabus carefully.
 2. Install Python (instructions on the website).
-3. Start with **Level 1** (*Numbers*).
+3. Start with **Module 1** (*Numbers*).
 
 ## Programming modules {#programming-modules}
-
-You're going to learn programming through a number of programming modules, one per level.
-Each module consists of theory sections, assignments and challenges. In the schedule
-you will see these icons:
-
-<ul class="types">
-  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16"><path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"/></svg> <b>Collaborative assignments</b>: you are encouraged to work on these
-      together with other students, and copying each other's code is no problem here.</li>
-  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16"><path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/></svg> <b>Individual assignments</b>: you make these entirely on your own
-      (with our help, of course). You may not copy code from anyone else.</li>
-  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16"><path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4m9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382zM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"/></svg> <b>Challenges</b>: optional, considerably harder assignments,
-      for when you want to get the most out of this course.</li>
-</ul>
-
-<style>
-.types { list-style: none; padding-left: 0; }
-.types li { margin-bottom: 0.5em; }
-.types svg { vertical-align: -0.15em; margin-right: 0.3em; }
-</style>
-
 Here below is an overview of all modules. Click a module title to read what it is about.
 
 <style>
@@ -187,19 +167,19 @@ Here below is an overview of all modules. Click a module title to read what it i
 .modules details p { margin: 0.6em 0 0; font-size: 0.9em; line-height: 1.4; }
 </style>
 
-### First half (Level 0 - Level 3) {#modules-first}
+### First half (Module 0 - Module 3) {#modules-first}
 
 <table class="modules">
   <tr>
-    <th>Level 0</th>
-    <th>Level 1</th>
-    <th>Level 2</th>
-    <th>Level 3</th>
+    <th>Module 0</th>
+    <th>Module 1</th>
+    <th>Module 2</th>
+    <th>Module 3</th>
   </tr>
   <tr>
     <td class="mid">
       <details><summary>INSTALL</summary>
-        <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Level 1.</p>
+        <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</p>
       </details>
     </td>
     <td class="mid">
@@ -220,13 +200,13 @@ Here below is an overview of all modules. Click a module title to read what it i
   </tr>
 </table>
 
-### Second half (Level 4 - Level 6) {#modules-second}
+### Second half (Module 4 - Module 6) {#modules-second}
 
 <table class="modules">
   <tr>
-    <th>Level 4</th>
-    <th>Level 5</th>
-    <th>Level 6</th>
+    <th>Module 4</th>
+    <th>Module 5</th>
+    <th>Module 6</th>
   </tr>
   <tr>
     <td>
@@ -241,7 +221,7 @@ Here below is an overview of all modules. Click a module title to read what it i
     </td>
     <td>
       <details><summary>POPULATIONS</summary>
-        <p>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole level counts as a challenge: it is not required to pass the course, but it does count towards your grade.</p>
+        <p>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</p>
       </details>
     </td>
   </tr>
@@ -257,7 +237,7 @@ Your final grade is built from three components:
 
 | Component | Weight |
 |-----------------------|-----|
-| Coursework (levels)   | 30% |
+| Coursework (modules)   | 30% |
 | Tests                 | 10% |
 | Final exam            | 60% |
 
@@ -265,16 +245,16 @@ To pass the course you need:
 
 - a rounded final grade of **6.0** or higher;
 - at least a **5.5** for the final exam;
-- all levels *submitted* and *discussed* in person (Level 6 excepted, see below).
+- all modules *submitted* and *discussed* in person (Module 6 excepted, see below).
 
-There is no minimum grade per level — a weak level can be compensated by the rest.
+There is no minimum grade per module — a weak module can be compensated by the rest.
 
 #### Coursework (modules)
 
-Each level is graded on a scale from 1 to 10. The grade is determined by how many
+Each module is graded on a scale from 1 to 10. The grade is determined by how many
 assignments you handed in correctly. 
 
-Each level consists of theory sections, assignments and challenges. In the schedule
+Each module consists of theory sections, assignments and challenges. In the schedule
 you will see these icons:
 
 <ul class="types">
@@ -286,20 +266,18 @@ you will see these icons:
       for when you want to get the most out of this course.</li>
 </ul>
 
-If you complete all the base assignments of a level you get a 7. Everything above a 7 comes from the challenges.
-
-- The **individual** assignmenst and the **collaborative** assignments togehter are the 
-  base assignemnts. If you complete them all you get a 7.
+- The **individual** assignments and the **collaborative** assignments together are the 
+  base assignments. If you complete them all you get a 7.
 - The **challenges** are not compulsory, but they allow you to get a grade above a 7. We
-  also highly recommend completing at least one per level to be fully prepared for the exam
+  also highly recommend completing at least one per module to be fully prepared for the exam
   and/or future courses.
 
 Some additional remarks:
-- Level 6 (Populations) is semi-optional: You can still pass the course without it, 
+- Module 6 (Populations) is semi-optional: You can still pass the course without it, 
   but it will cost you points on your coursework grade.
 - For a challenge to count you have to be able to explain your code to a teacher.
-- After you have submitted all parts of a level, **you need to come to a lab and discuss
-  your code in person**. Only then do you get the grade for that level.
+- After you have submitted all parts of a module, **you need to come to a lab and discuss
+  your code in person**. Only then do you get the grade for that module.
 
 #### Tests
 
@@ -319,7 +297,7 @@ Some additional remarks:
 ## Prerequisites {#prerequisites}
 
 * No prior programming experience required.
-* Some levels assume **high-school level mathematics**.
+* Some modules assume **high-school level mathematics**.
 
 ## Learning goals {#learning-goals}
 

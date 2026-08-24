@@ -1,6 +1,9 @@
 #### SP1
 
 # M1
+algorithms:
+    remote: https://github.com/spcourse/algorithms.git
+    branch: main
 numbers:
     remote: https://github.com/spcourse/numbers.git
     branch: main
@@ -39,13 +42,14 @@ shakespeare:
     branch: main
 
 # M6
-survival:
-    remote: https://github.com/spcourse/survival.git
+populations-oo:
+    remote: https://github.com/spcourse/populations-oo.git
     branch: main
-pandas:
-    remote: https://github.com/spcourse/pandas.git
-    branch: main
-    
+objects:
+    remote: https://github.com/spcourse/objects.git
+    branch: 2023
+
+
 #### General
 
 python:

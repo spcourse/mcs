@@ -1,4 +1,11 @@
-name: 6_1s
+name: 6_1p
 files:
     required:
-        - pandas.ipynb
+        - phase1.py
+        - phase2.py
+        - phase3.py
+        - phase4.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: phase1 phase2 phase4

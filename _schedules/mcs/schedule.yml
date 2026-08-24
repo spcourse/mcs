@@ -13,7 +13,8 @@ Welcome:
         Exercise 2, first files in Zed: /python/en/installing/uv/mcs/zed-exercise
 
 
-Level 1 - Number Theory:
+Module 1 - Number Theory:
+    The deadline for this module is Tuesday 8 September:
     1.1 Output [1pt.]:
         "[icon:people-fill] Hello, world": /shorts/hello
         Submit [submit]: /submit/mod1n/s1
@@ -58,7 +59,7 @@ Level 1 - Number Theory:
         "[icon:person-fill] Squares": /shorts/squares
         "[icon:person-fill] Prime List": /numbers/en/primelist
         Submit [submit]: /submit/mod1n/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to [discuss] your solutions in person after completing this module!:
     1.7 Challenge 1 [1pt.]:
         Not required to pass, but needed for high grade:
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
@@ -72,7 +73,8 @@ Level 1 - Number Theory:
         "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
         Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
-Level 2 - Numerical Integration:
+Module 2 - Numerical Integration:
+    The deadline for this module is Tuesday 15 September:
     Introduction: /integrals/en/intro2
     2.1 Functions [1pt.]:
         Functions [theory]: /python/en/functions
@@ -108,7 +110,7 @@ Level 2 - Numerical Integration:
     2.6 Style [1pt.]:
         "[icon:person-fill] Style": /style/integrals
         Submit [submit]: /submit/mod2i/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to [discuss] your solutions in person after completing this module!:
     2.7 Challenge 1 [1pt.]:
         Not required to pass, but needed for high grade:
         More Function [theory]: /python/en/functions2
@@ -122,12 +124,13 @@ Level 2 - Numerical Integration:
     2.9 Challenge 3 [1pt.]:
         Not required to pass, but needed for high grade:
         "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
-        Submit Plot Min Max (21 jan): /submit/mod2i/c-plot-min-max
+        Submit [submit]: /submit/mod2i/c-plot-min-max
 
 
 
 
-Level 3 - Big Data:
+Module 3 - Big Data:
+    The deadline for this module is Tuesday 22 September:
     3.1 Car [2pt.]:
         Read Files (repeated) [theory]: /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
@@ -145,7 +148,7 @@ Level 3 - Big Data:
     3.5 Weather 4 [1pt.]:
         "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
         Submit [submit]: /submit/mod3/s5
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to [discuss] your solutions in person after completing this module!:
     3.6 Challenge 1 [1pt.]:
         Not required to pass, but needed for high grade:
         "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
@@ -160,8 +163,8 @@ Level 3 - Big Data:
         Submit [submit]: /submit/mod3/c-weather7
 
 
-Level 4 - Monopoly:
-    Scientific Programming 2 - Level 4 (Monopoly):
+Module 4 - Monopoly:
+    The deadline for this module is Tuesday 29 September:
     4.1 Monopoly 1 [0pt.]:
         Introduction: /monopoly/en/
         Debugging [theory]: /python/en/debugging
@@ -174,7 +177,7 @@ Level 4 - Monopoly:
     4.3 Monopoly 3 [3pt.]:
         "[icon:person-fill] Two players": /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to [discuss] your solutions in person after completing this module!:
     4.4 Challenge 1 [1.5pt.]:
         Not required to pass, but needed for high grade:
         Learn how to create animated graphics [theory]: /animation/en/explanation-gif
@@ -191,7 +194,8 @@ Level 4 - Monopoly:
         Submit Conway: /submit/mod4/c-conway
 
 
-Level 5 - Monopoly 2:
+Module 5 - Monopoly 2:
+    The deadline for this module is Tuesday 6 October:
     5.1 Data structures - part 1 [2pt.]:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
@@ -209,7 +213,7 @@ Level 5 - Monopoly 2:
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
         "[icon:people-fill] Complexity questions": /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to [discuss] your solutions in person after completing this module!:
     5.4 Challenge 1 [1 pt.]:
         Not required to pass, but needed for high grade:
         "[icon:person-fill-gear] Analyzing the board": /monopoly_dict/counting_visits
@@ -220,29 +224,38 @@ Level 5 - Monopoly 2:
         Submit [submit]: /submit/mod5/c-datastructures2
     5.6 Challenge 3 [1 pt.]:
         Not required to pass, but needed for high grade:
-        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly2/n-player
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly_dict/n-player
         Submit [submit]: /submit/mod5/c-monopoly2-n-player
 
 
-Level 6 - Survival:
-    Introduction: /survival/
-
-    6.1 Function arguments:
-        Default arguments [theory]: /python/en/default-arguments
-        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
-    6.2 Jupyter notebook:
-        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
-    6.3 Pandas [1pt.]:
-        Pandas [practice]: /pandas/pandas-sp
+Module 6 - Populations:
+    The deadline for this module is Tuesday 13 October:
+    This whole module is a challenge - not required to pass, but needed for a high grade:
+    Introduction: /populations-oo
+    6.1 Classes:
+        Learn about using classes in Python [theory]: /python/en/classes
+        "[icon:people-fill] Practice with classes": /objects/cards
+    6.2 Populations (part 1) [3pt.]:
+        Introduction: /populations-oo/introduction
+        "[icon:people-fill] Phase 1": /populations-oo/phase1
+        "[icon:people-fill] Phase 2": /populations-oo/phase2
+        "[icon:people-fill] Phase 3": /populations-oo/phase3
+        "[icon:person-fill] Phase 4": /populations-oo/phase4
         Submit [submit]: /submit/mod6/s1
-    6.4 Seaborn [5pt.]:
-        Seaborn [practice]: /pandas/seaborn
+    6.3 Populations (part 2) [3pt.]:
+        "[icon:people-fill] Phase 5": /populations-oo/phase5
+        "[icon:people-fill] Phase 6": /populations-oo/phase6
+        "[icon:people-fill] Phase 7": /populations-oo/phase7
+        "[icon:person-fill] Phase 8": /populations-oo/phase8
+        "[icon:person-fill] Phase 9": /populations-oo/phase9
         Submit [submit]: /submit/mod6/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
-    6.5 Challenge [3pt.]:
+    Make sure to [discuss] your solutions in person after completing this module!:
+    6.4 Challenge 1 - Creative [3pt.]:
         Not required to pass, but needed for high grade:
-        Mushrooms [assignment]: /pandas/survival-sp
-        Submit [submit]: /submit/mod6/c-survival
+        "[icon:person-fill-gear] Experiment": /populations-oo/creative
+        Submit [submit]: /submit/mod6/c-creative
 
-# Practice Exam:
-#     Practice exam: /exams/practice
+Practice exam:
+    We go through these in the lab on Friday 16 October:
+    Practice exam 1 [submit]: /submit/quizes/pr1_practice_exam1
+    Practice exam 2 [submit]: /submit/exams/practice_exam
