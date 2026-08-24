@@ -85,50 +85,43 @@ Below is the week-by-week overview. Sessions marked with a bar are **compulsory*
     </tr>
     <tr>
       <th>Week 2<span>7 - 11 Sep</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span></td>
-      <td><span class="lab req">lab</span></td>
-      <td><span class="lab req">lab</span></td>
-      <td class="dl">Tue 8 Sep<br>Level 1</td>
+      <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13 lab (compulsory), L0.11</span></td>
+      <td><span class="lab req">11-13, lab (compulsory), L0.11</span><span class="dl">deadline: level 1</span></td>
+      <td><span class="lab req">11-13, lab (compulsory), L0.11</span></td>
     </tr>
     <tr>
       <th>Week 3<span>14 - 18 Sep</span></th>
-      <td><span class="lec">lecture</span><span class="lab req">lab</span><span class="test req">test 1</span></td>
-      <td><span class="lab">lab</span><span class="note">compulsory if you failed test 1</span></td>
+      <td><span class="lec">lecture</span><span class="lab req">lab (compulsory)</span><span class="test req">test 1</span></td>
+      <td><span class="lab">lab (compulsory if you failed test 1)</span></td>
       <td><span class="lab">lab</span></td>
-      <td class="dl">Tue 15 Sep<br>Level 2</td>
     </tr>
     <tr>
       <th>Week 4<span>21 - 25 Sep</span></th>
       <td><span class="lec">lecture</span><span class="lab req">lab</span></td>
       <td><span class="lab">lab</span></td>
       <td><span class="lab">lab</span></td>
-      <td class="dl">Tue 22 Sep<br>Level 3</td>
     </tr>
     <tr>
       <th>Week 5<span>28 Sep - 2 Oct</span></th>
       <td><span class="lec">lecture</span><span class="lab req">lab</span><span class="test req">test 2</span></td>
       <td><span class="lab">lab</span><span class="note">compulsory if you failed test 2</span></td>
       <td><span class="lab">lab</span></td>
-      <td class="dl">Tue 29 Sep<br>Level 4</td>
     </tr>
     <tr>
       <th>Week 6<span>5 - 9 Oct</span></th>
       <td><span class="lec">lecture</span><span class="lab req">lab</span></td>
       <td><span class="lab">lab</span></td>
       <td><span class="lab">lab</span></td>
-      <td class="dl">Tue 6 Oct<br>Level 5</td>
     </tr>
     <tr>
       <th>Week 7<span>12 - 16 Oct</span></th>
       <td><span class="lec">lecture</span><span class="lab req">lab</span><span class="test req">test 3</span></td>
       <td><span class="lab">lab</span><span class="note">compulsory if you failed test 3</span></td>
       <td><span class="disc">discuss Level 6<br>+ practice exam</span></td>
-      <td class="dl">Tue 13 Oct<br>Level 6</td>
     </tr>
     <tr>
       <th>Week 8<span>19 - 23 Oct</span></th>
       <td><span class="exam">exam 13:00 - 15:00<br>USC Universum Sporthal 1</span></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
