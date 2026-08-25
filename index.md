@@ -9,11 +9,6 @@
 ## Teaching Team & Contact
 
 **Teaching staff**
-
-<style>
-.team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
-</style>
-
 <table class="team">
   <tr><td>Lara</td><td> ...
   </td></tr>
@@ -38,37 +33,6 @@ The course runs for seven weeks, from **31 August** to **16 October 2026**, and 
 
 <p class="legend">Below is the week-by-week overview. Sessions with a <span class="lab req">solid dark border</span>
 are compulsory.</p>
-
-<style>
-.weeks {
-  width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
-  border-collapse: separate; border-spacing: 4px 6px;
-}
-.weeks, .weeks thead, .weeks tbody, .weeks tr { background: transparent; }
-.weeks th, .weeks td {
-  border: none; padding: 0.4em 0.5em; text-align: left;
-  background: transparent; vertical-align: top;
-}
-.weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
-.weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
-.weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
-.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl, .legend .lab {
-  padding: 0.3em 0.5em; border-radius: 4px; border: 2px solid transparent;
-}
-.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl {
-  display: block; margin-bottom: 0.2em;
-}
-.legend .lab { display: inline-block; }
-.weeks .lec  { background: #f0e2be; color: #5d4713; }
-.weeks .lab, .legend .lab { background: #dbe3d1; color: #39492a; }
-.weeks .disc { background: #d3e0dc; color: #2d4a43; }
-.weeks .exam { background: #ecd3c5; color: #6d3a20; }
-.weeks .dl   { background: #e8cfd2; color: #662e35; }
-.weeks .req,  .legend .req  { border-color: currentColor; }
-.weeks .cond, .legend .cond { border-color: currentColor; border-style: dashed; }
-.weeks .test { font-weight: bold; }
-</style>
-
 <table class="weeks">
   <thead>
     <tr><th></th><th>Monday</th><th>Tuesday</th><th>Friday</th></tr>
@@ -151,17 +115,6 @@ To begin:
 
 ## Programming modules {#programming-modules}
 Here below is an overview of all modules.
-
-<style>
-.modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
-.modules th {
-  text-align: left; padding: 0.5em 0.6em; font-size: 0.9em; white-space: nowrap;
-  vertical-align: top; width: 1%; background: #f0ede6; border: 1px solid #d8d2c4;
-}
-.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; line-height: 1.4; }
-.modules td b { display: block; margin-bottom: 0.3em; }
-</style>
-
 <table class="modules">
   <tr>
     <th>Module 0</th>
@@ -192,3 +145,46 @@ Here below is an overview of all modules.
     <td><b>POPULATIONS</b>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</td>
   </tr>
 </table>
+
+<style>
+/* teaching team */
+.team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
+
+/* week-by-week schedule */
+.weeks {
+  width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
+  border-collapse: separate; border-spacing: 4px 6px;
+}
+.weeks, .weeks thead, .weeks tbody, .weeks tr { background: transparent; }
+.weeks th, .weeks td {
+  border: none; padding: 0.4em 0.5em; text-align: left;
+  background: transparent; vertical-align: top;
+}
+.weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
+.weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
+.weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
+.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl, .legend .lab {
+  padding: 0.3em 0.5em; border-radius: 4px; border: 2px solid transparent;
+}
+.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl {
+  display: block; margin-bottom: 0.2em;
+}
+.legend .lab { display: inline-block; }
+.weeks .lec  { background: #f0e2be; color: #5d4713; }
+.weeks .lab, .legend .lab { background: #dbe3d1; color: #39492a; }
+.weeks .disc { background: #d3e0dc; color: #2d4a43; }
+.weeks .exam { background: #ecd3c5; color: #6d3a20; }
+.weeks .dl   { background: #e8cfd2; color: #662e35; }
+.weeks .req,  .legend .req  { border-color: currentColor; }
+.weeks .cond, .legend .cond { border-color: currentColor; border-style: dashed; }
+.weeks .test { font-weight: bold; }
+
+/* module overview */
+.modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
+.modules th {
+  text-align: left; padding: 0.5em 0.6em; font-size: 0.9em; white-space: nowrap;
+  vertical-align: top; width: 1%; background: #f0ede6; border: 1px solid #d8d2c4;
+}
+.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; line-height: 1.4; }
+.modules td b { display: block; margin-bottom: 0.3em; }
+</style>
