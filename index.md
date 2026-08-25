@@ -115,55 +115,35 @@ To begin:
 
 ## Programming modules {#programming-modules}
 Here below is an overview of all modules.
-<table class="modules">
-  <tr>
-    <th></th>
-    <td><b>INSTALL</b>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</td>
-  </tr>
-  <tr>
-    <th>Module 1</th>
-    <td><b>NUMBERS</b>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</td>
-  </tr>
-  <tr>
-    <th>Module 2</th>
-    <td><b>INTEGRATION</b>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</td>
-  </tr>
-  <tr>
-    <th>Module 3</th>
-    <td><b>BIG DATA</b>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</td>
-  </tr>
-  <tr>
-    <th>Module 4</th>
-    <td><b>MONOPOLY</b>When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
-  </tr>
-  <tr>
-    <th>Module 5</th>
-    <td><b>MONOPOLY 2</b>This is a continuation of MONOPOLY. You’re going to improve the design of your Monopoly simulation. You will learn about more advanced data structures that can help you improve the design of your code dramatically, making it easier to debug, maintain and extend. You will also learn about computational complexity, which gives you a way to reason about the efficiency of your algorithms and shows why picking the right data structure can mean the difference between a run time of a couple of minutes and one of weeks. Redesigning code that you already wrote using more advanced concepts might seem redundant, but it can be one of the most valuable learning experiences on the way to becoming a good programmer.</td>
-  </tr>
-  <tr>
-    <th>Module 6</th>
-    <td><b>POPULATIONS</b>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</td>
-  </tr>
-</table>
+<p class="module"><b>INSTALL</b>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</p>
+
+<p class="module"><b>Module 1 - NUMBERS</b>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</p>
+
+<p class="module"><b>Module 2 - INTEGRATION</b>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
+
+<p class="module"><b>Module 3 - BIG DATA</b>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</p>
+
+<p class="module"><b>Module 4 - MONOPOLY</b>When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</p>
+
+<p class="module"><b>Module 5 - MONOPOLY 2</b>This is a continuation of MONOPOLY. You’re going to improve the design of your Monopoly simulation. You will learn about more advanced data structures that can help you improve the design of your code dramatically, making it easier to debug, maintain and extend. You will also learn about computational complexity, which gives you a way to reason about the efficiency of your algorithms and shows why picking the right data structure can mean the difference between a run time of a couple of minutes and one of weeks. Redesigning code that you already wrote using more advanced concepts might seem redundant, but it can be one of the most valuable learning experiences on the way to becoming a good programmer.</p>
+
+<p class="module"><b>Module 6 - POPULATIONS</b>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</p>
 
 <style>
 /* teaching team */
 .team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
 
-/* shared table skeleton: schedule + module overview */
-.weeks, .modules {
+/* week-by-week schedule */
+.weeks {
   width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
   border-collapse: separate; border-spacing: 4px 6px;
 }
-.weeks, .weeks thead, .weeks tbody, .weeks tr,
-.modules, .modules tbody, .modules tr { background: transparent; }
-.weeks th, .weeks td, .modules th, .modules td {
+.weeks, .weeks thead, .weeks tbody, .weeks tr { background: transparent; }
+.weeks th, .weeks td {
   border: none; padding: 0.4em 0.5em; text-align: left;
   background: transparent; vertical-align: top;
 }
-.weeks tbody th, .modules th { white-space: nowrap; font-weight: bold; text-align: left; }
-
-/* week-by-week schedule */
+.weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
 .weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
 .weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
 .weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl, .legend .lab {
@@ -183,10 +163,10 @@ Here below is an overview of all modules.
 .weeks .test { font-weight: bold; }
 
 /* module overview */
-.modules th { width: 1%; }
-.modules td {
-  padding: 0.5em 0.7em; border-radius: 4px; line-height: 1.4;
+.module {
+  margin: 0 0 6px; padding: 0.5em 0.7em; font-size: 0.9em;
+  border-radius: 4px; line-height: 1.4;
   background: #e3dccf; color: #53462d;
 }
-.modules td b { display: block; margin-bottom: 0.3em; }
+.module b { display: block; margin-bottom: 0.3em; }
 </style>
