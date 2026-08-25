@@ -36,11 +36,8 @@ The course runs for seven weeks, from **31 August** to **16 October 2026**, and 
 
 ### Schedule {#schedule}
 
-Below is the week-by-week overview.
-
-<p class="legend">Sessions with a <span class="lab req">solid dark border</span>
-are compulsory. A <span class="lab cond">dashed border</span> means the session
-is only compulsory for you if you failed that Monday's test.</p>
+<p class="legend">Below is the week-by-week overview. Sessions with a <span class="lab req">solid dark border</span>
+are compulsory.</p>
 
 <style>
 .weeks {
