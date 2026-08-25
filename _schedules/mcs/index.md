@@ -148,6 +148,7 @@ Here below is an overview of all modules.
     <td><b>POPULATIONS</b>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</td>
   </tr>
 </table>
+
 ## Coursework (modules)
 
 Each module is graded on a scale from 1 to 10. The grade is determined by how many
