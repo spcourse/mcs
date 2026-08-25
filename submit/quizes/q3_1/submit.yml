@@ -1,17 +1,17 @@
-name: 1_2quiz
+name: 3_1quiz
 exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("mcs_quiz1_2", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("mcs_quiz3_1", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/quizes
-    args: mcs_quiz1_2
+    args: mcs_quiz3_1
 files:
     required:
-        'mcs_quiz1_2.py': |
+        'mcs_quiz3_1.py': |
             # Solution
 
         'temp.py': |

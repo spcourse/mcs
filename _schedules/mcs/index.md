@@ -10,20 +10,20 @@
 
 **Teaching staff**
 
-<!--<style>
+<style>
 .team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
 </style>
 
 <table class="team">
-  <tr><td>Lara<br>Lemson</td><td> ...
+  <tr><td>Lara</td><td> ...
   </td></tr>
-  <tr><td>Lisette<br>van Werkhoven</td><td> ...
+  <tr><td>Lisette</td><td> ...
   </td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
-</table>-->
+</table>
 
 **Contact email**
-[scientific@proglab.nl](mailto:scientific@proglab.nl)
+[mcs@proglab.nl](mailto:mcs@proglab.nl)
 
 **Schedule, locations, and deadlines**
 [jump to schedule](#schedule)

@@ -87,7 +87,18 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
-    9: &examtest
+    9: &quiz-grade
+        type: float
+        subgrades:
+            quiz_1: boolean
+            quiz_2: boolean
+            quiz_3: boolean
+        calculation: 1 + (quiz_1 * -3 + quiz_2 * -3 + quiz_3 * -3).round(1)
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: true
+
+    10: &examtest
         type: float
         subgrades:
             checkpy: float
@@ -107,7 +118,7 @@ grades:
     m4-grade: *grade2-bonus
     m5-grade: *grade3
     m6-grade: *grade1
-
+    quizes-grade: *quiz-grade
 
     1_1n: *auto
     1_2n: *auto
@@ -159,6 +170,8 @@ grades:
     1_2quiz: *quiz
     2_1quiz: *quiz
     2_2quiz: *quiz
+    3_1quiz: *quiz
+    3_2quiz: *quiz
 
     pr1_practice_exam1: *testt
     practice_exam: *testt
@@ -169,7 +182,6 @@ grades:
 ########### SP 1 ###########
 
 module_grades:
-    minimum: 5.5
     show_progress: true
     submits:
         m1-grade: 1
@@ -179,6 +191,11 @@ module_grades:
         m5-grade: 1
         m6-grade: 1
 
+quiz_grades:
+    show_progress: true
+    submits:
+        quizes-grade: 1
+
 quizes:
     show_progress: true
     submits:
@@ -186,7 +203,9 @@ quizes:
         1_2quiz: 1
         2_1quiz: 1
         2_2quiz: 1
-        
+        3_1quiz: 1
+        3_2quiz: 1
+
 module_1_numbers_l1num:
     show_progress: true
     small_block_overview: true
@@ -250,7 +269,7 @@ module_5_monopoly2_L5mo2:
         c-counting-visits: 1
         c-datastructures2: 1
         c-monopoly2-n-player: 1
-        
+
 module_6_populations_L6pop:
     show_progress: true
     small_block_overview: true
@@ -281,8 +300,10 @@ exam2:
 
 calculation:
     final1:
-        exam1: 1
-        module_grades: 1
+        exam1: 6
+        quiz_grades: 1
+        module_grades: 3
     final2:
-        exam2: 1
-        module_grades: 1
+        exam2: 6
+        quiz_grades: 1
+        module_grades: 3

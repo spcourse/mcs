@@ -1,8 +1,0 @@
-name: 4_0
-files:
-    required:
-        - hello.py
-check:
-    tool: checkpy
-    repo: spcourse/tests
-    args: hello
