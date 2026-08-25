@@ -124,8 +124,8 @@ Here below is an overview of all modules.
     <td><b>INSTALL</b>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</td>
   </tr>
   <tr>
-    <th>Module 1</th>
-    <td><b>NUMBERS</b>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</td>
+    <th></th>
+    <td><b>Module 1 - NUMBERS</b>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</td>
   </tr>
   <tr>
     <th>Module 2</th>
