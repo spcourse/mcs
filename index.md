@@ -218,8 +218,3 @@ Here below is an overview of all modules. Click a module title to read what it i
     </td>
   </tr>
 </table>
-
-## Full syllabus {#full-syllabus}
-
-This page covers the practical information. The [full syllabus](/syllabus) also describes
-the coursework, grading, prerequisites, learning goals and the rules on doing your own work.
