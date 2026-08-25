@@ -41,6 +41,10 @@ The course runs for seven weeks, from **31 August** to **16 October 2026**, and 
 
 Below is the week-by-week overview.
 
+<p class="legend">Sessions with a solid dark border, <span class="lab req">like this</span>,
+are compulsory. A dashed border, <span class="lab cond">like this</span>, means the session
+is only compulsory for you if you failed that Monday's test.</p>
+
 <style>
 .weeks {
   width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
@@ -54,17 +58,21 @@ Below is the week-by-week overview.
 .weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
 .weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
 .weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
-.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl {
-  display: block; padding: 0.3em 0.5em; border-radius: 4px; margin-bottom: 0.2em;
+.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl, .legend .lab {
+  padding: 0.3em 0.5em; border-radius: 4px; border: 2px solid transparent;
 }
+.weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl {
+  display: block; margin-bottom: 0.2em;
+}
+.legend .lab { display: inline-block; }
 .weeks .lec  { background: #f0e2be; color: #5d4713; }
-.weeks .lab  { background: #dbe3d1; color: #39492a; }
+.weeks .lab, .legend .lab { background: #dbe3d1; color: #39492a; }
 .weeks .disc { background: #d3e0dc; color: #2d4a43; }
 .weeks .exam { background: #ecd3c5; color: #6d3a20; }
 .weeks .dl   { background: #e8cfd2; color: #662e35; }
-.weeks .req  { }
+.weeks .req,  .legend .req  { border-color: currentColor; }
+.weeks .cond, .legend .cond { border-color: currentColor; border-style: dashed; }
 .weeks .test { font-weight: bold; }
-.legend .lec, .legend .lab, .legend .disc, .legend .exam, .legend .dl { display: inline-block; margin-right: 0.4em; }
 </style>
 
 <table class="weeks">
@@ -87,7 +95,7 @@ Below is the week-by-week overview.
     <tr>
       <th>Week 3<span>14 - 18 Sep</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 1</span></span></td>
-      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 1)</span><span class="dl">23:59 deadline: module 2</span></td>
+      <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 1)</span><span class="dl">23:59 deadline: module 2</span></td>
       <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
@@ -99,7 +107,7 @@ Below is the week-by-week overview.
     <tr>
       <th>Week 5<span>28 Sep - 2 Oct</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 2</span></span></td>
-      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 2)</span><span class="dl">23:59 deadline: module 4</span></td>
+      <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 2)</span><span class="dl">23:59 deadline: module 4</span></td>
       <td><span class="lab">13-15, lab, L0.11</span></td>
     </tr>
     <tr>
@@ -111,7 +119,7 @@ Below is the week-by-week overview.
     <tr>
       <th>Week 7<span>12 - 16 Oct</span></th>
       <td><span class="lec">9-11, lecture, D1.116</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 3</span></span></td>
-      <td><span class="lab">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: module 6</span></td>
+      <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: module 6</span></td>
       <td><span class="disc">13-15, discuss module 6 + practice exam, L0.11</span></td>
     </tr>
     <tr>
@@ -148,80 +156,48 @@ To begin:
 3. Start with **Module 1** (*Numbers*).
 
 ## Programming modules {#programming-modules}
-Here below is an overview of all modules. Click a module title to read what it is about.
+Here below is an overview of all modules.
 
 <style>
 .modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
 .modules th {
-  text-align: left; padding: 0.4em 0.6em; font-size: 0.9em;
-  background: #f0ede6; border: 1px solid #d8d2c4;
+  text-align: left; padding: 0.5em 0.6em; font-size: 0.9em; white-space: nowrap;
+  vertical-align: top; width: 1%; background: #f0ede6; border: 1px solid #d8d2c4;
 }
-.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; }
-.modules td.mid { vertical-align: middle; }
-.modules summary { cursor: pointer; font-weight: bold; }
-.modules details p { margin: 0.6em 0 0; font-size: 0.9em; line-height: 1.4; }
+.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; line-height: 1.4; }
+.modules td b { display: block; margin-bottom: 0.3em; }
 </style>
-
-### First half (Module 0 - Module 3) {#modules-first}
 
 <table class="modules">
   <tr>
     <th>Module 0</th>
-    <th>Module 1</th>
-    <th>Module 2</th>
-    <th>Module 3</th>
+    <td><b>INSTALL</b>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</td>
   </tr>
   <tr>
-    <td class="mid">
-      <details><summary>INSTALL</summary>
-        <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</p>
-      </details>
-    </td>
-    <td class="mid">
-      <details><summary>NUMBERS</summary>
-        <p>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</p>
-      </details>
-    </td>
-    <td class="mid">
-      <details><summary>INTEGRATION</summary>
-        <p>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
-      </details>
-    </td>
-    <td class="mid">
-      <details><summary>BIG DATA</summary>
-        <p>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</p>
-      </details>
-    </td>
+    <th>Module 1</th>
+    <td><b>NUMBERS</b>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</td>
   </tr>
-</table>
-
-### Second half (Module 4 - Module 6) {#modules-second}
-
-<table class="modules">
+  <tr>
+    <th>Module 2</th>
+    <td><b>INTEGRATION</b>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</td>
+  </tr>
+  <tr>
+    <th>Module 3</th>
+    <td><b>BIG DATA</b>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</td>
+  </tr>
   <tr>
     <th>Module 4</th>
-    <th>Module 5</th>
-    <th>Module 6</th>
+    <td><b>MONOPOLY</b>When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr>
   <tr>
-    <td>
-      <details><summary>MONOPOLY</summary>
-        <p>When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</p>
-      </details>
-    </td>
-    <td>
-      <details><summary>MONOPOLY 2</summary>
-        <p>This is a continuation of MONOPOLY. You’re going to improve the design of your Monopoly simulation. You will learn about more advanced data structures that can help you improve the design of your code dramatically, making it easier to debug, maintain and extend. You will also learn about computational complexity, which gives you a way to reason about the efficiency of your algorithms and shows why picking the right data structure can mean the difference between a run time of a couple of minutes and one of weeks. Redesigning code that you already wrote using more advanced concepts might seem redundant, but it can be one of the most valuable learning experiences on the way to becoming a good programmer.</p>
-      </details>
-    </td>
-    <td>
-      <details><summary>POPULATIONS</summary>
-        <p>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</p>
-      </details>
-    </td>
+    <th>Module 5</th>
+    <td><b>MONOPOLY 2</b>This is a continuation of MONOPOLY. You’re going to improve the design of your Monopoly simulation. You will learn about more advanced data structures that can help you improve the design of your code dramatically, making it easier to debug, maintain and extend. You will also learn about computational complexity, which gives you a way to reason about the efficiency of your algorithms and shows why picking the right data structure can mean the difference between a run time of a couple of minutes and one of weeks. Redesigning code that you already wrote using more advanced concepts might seem redundant, but it can be one of the most valuable learning experiences on the way to becoming a good programmer.</td>
+  </tr>
+  <tr>
+    <th>Module 6</th>
+    <td><b>POPULATIONS</b>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP). This whole module counts as a challenge: it is not required to pass the course, but it does count towards your grade.</td>
   </tr>
 </table>
-
 ## Coursework (modules)
 
 Each module is graded on a scale from 1 to 10. The grade is determined by how many
