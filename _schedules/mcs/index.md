@@ -120,7 +120,7 @@ To begin:
 Here below is an overview of all modules.
 <table class="modules">
   <tr>
-    <th>Module 0</th>
+    <th></th>
     <td><b>INSTALL</b>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Module 1.</td>
   </tr>
   <tr>
@@ -321,18 +321,21 @@ We have used many programming recourses for inspiration:
 /* teaching team */
 .team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
 
-/* week-by-week schedule */
-.weeks {
+/* shared table skeleton: schedule + module overview */
+.weeks, .modules {
   width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
   border-collapse: separate; border-spacing: 4px 6px;
 }
-.weeks, .weeks thead, .weeks tbody, .weeks tr { background: transparent; }
-.weeks th, .weeks td {
+.weeks, .weeks thead, .weeks tbody, .weeks tr,
+.modules, .modules tbody, .modules tr { background: transparent; }
+.weeks th, .weeks td, .modules th, .modules td {
   border: none; padding: 0.4em 0.5em; text-align: left;
   background: transparent; vertical-align: top;
 }
+.weeks tbody th, .modules th { white-space: nowrap; font-weight: bold; text-align: left; }
+
+/* week-by-week schedule */
 .weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
-.weeks tbody th { white-space: nowrap; font-weight: bold; text-align: left; }
 .weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
 .weeks .lec, .weeks .lab, .weeks .disc, .weeks .exam, .weeks .dl, .legend .lab {
   padding: 0.3em 0.5em; border-radius: 4px; border: 2px solid transparent;
@@ -351,12 +354,11 @@ We have used many programming recourses for inspiration:
 .weeks .test { font-weight: bold; }
 
 /* module overview */
-.modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
-.modules th {
-  text-align: left; padding: 0.5em 0.6em; font-size: 0.9em; white-space: nowrap;
-  vertical-align: top; width: 1%; background: #f0ede6; border: 1px solid #d8d2c4;
+.modules th { width: 1%; }
+.modules td {
+  padding: 0.5em 0.7em; border-radius: 4px; line-height: 1.4;
+  background: #e3dccf; color: #53462d;
 }
-.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; line-height: 1.4; }
 .modules td b { display: block; margin-bottom: 0.3em; }
 
 /* assignment type legend */
