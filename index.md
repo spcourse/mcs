@@ -10,11 +10,9 @@
 
 **Teaching staff**
 <table class="team">
-  <tr><td>Lara</td><td> ...
-  </td></tr>
-  <tr><td>Lisette</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
+  <tr><td><img src = "team/lara.jpg" style="max-width:90px" width = "150"><br>Lara</td><td> Lara is a third-year student studying Artificial Intelligence and Educational Sciences at the University of Amsterdam. She finds the combination of technology and education particularly interesting and enjoys exploring how they can complement each other. Outside of university, she enjoys playing the piano, dancing, and spending time with friends.</td></tr>
+  <tr><td><img src = "team/lisette.jpg" style="max-width:90px" width = "150"><br>Lisette</td><td> Lisette studied Physics and Astrophysics. During her studies she gained an interest in computer science and followed the minor Computational Science in her third year. She is now studying to become a high school computer science teacher.</td></tr>
+  <tr><td><img src = "team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
 </table>
 
 **Contact email**
