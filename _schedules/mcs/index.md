@@ -43,43 +43,43 @@ are compulsory.</p>
       <th>Week 1<span>31 Aug - 4 Sep</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
       <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span></td>
-      <td><span class="lab req">13-15, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab req">13-15, lab, L0.10 (compulsory)</span></td>
     </tr>
     <tr>
       <th>Week 2<span>7 - 11 Sep</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
       <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: module 1</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span></td>
+      <td><span class="lab">13-15, lab, L0.10</span></td>
     </tr>
     <tr>
       <th>Week 3<span>14 - 18 Sep</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 1</span></span></td>
       <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 1)</span><span class="dl">23:59 deadline: module 2</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span></td>
+      <td><span class="lab">13-15, lab, L0.10</span></td>
     </tr>
     <tr>
       <th>Week 4<span>21 - 25 Sep</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
       <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: module 3</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span></td>
+      <td><span class="lab">13-15, lab, L0.10</span></td>
     </tr>
     <tr>
       <th>Week 5<span>28 Sep - 2 Oct</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 2</span></span></td>
       <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 2)</span><span class="dl">23:59 deadline: module 4</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span></td>
+      <td><span class="lab">13-15, lab, L0.10</span></td>
     </tr>
     <tr>
       <th>Week 6<span>5 - 9 Oct</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
       <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: module 5</span></td>
-      <td><span class="lab">13-15, lab, L0.11</span></td>
+      <td><span class="lab">13-15, lab, L0.10</span></td>
     </tr>
     <tr>
       <th>Week 7<span>12 - 16 Oct</span></th>
       <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 3</span></span></td>
       <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: module 6</span></td>
-      <td><span class="disc">13-15, discuss module 6 + practice exam, L0.11</span></td>
+      <td><span class="disc">13-15, discuss module 6 + practice exam, L0.10</span></td>
     </tr>
     <tr>
       <th>Week 8<span>19 - 23 Oct</span></th>
