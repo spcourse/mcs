@@ -1,22 +1,23 @@
-name: 1_1quiz
+name: 1quiz
 exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("mcs_quiz1_1", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("mcs_quiz1", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/quizes
-    args: mcs_quiz1_1
+    args: mcs_quiz1
 files:
     required:
-        'mcs_quiz1_1.py': |
-            # Solution
+        'mcs_quiz1.py': |
+            # Solutions
+
+            # Question 1
+
+            # Question 2
 
         'temp.py': |
             # This file will be ignored by us. You can use this as a canvas
             # for drafts and test out code fragments.
-
-
-   

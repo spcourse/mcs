@@ -166,8 +166,8 @@ grades:
     6_2p: *check
     c-creative: *check
 
-    1_1quiz: *quiz
-    1_2quiz: *quiz
+    1quiz: *quiz
+    1rquiz: *quiz
     2_1quiz: *quiz
     2_2quiz: *quiz
     3_1quiz: *quiz
@@ -199,8 +199,8 @@ quiz_grades:
 quizes:
     show_progress: true
     submits:
-        1_1quiz: 1
-        1_2quiz: 1
+        1quiz: 1
+        1rquiz: 1
         2_1quiz: 1
         2_2quiz: 1
         3_1quiz: 1
