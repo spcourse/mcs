@@ -132,7 +132,8 @@ Module 2 - Numerical Integration:
 Module 3 - Big Data:
     The deadline for this module is Tuesday 22 September:
     3.1 Car [2pt.]:
-        Read Files (repeated) [theory]: /python/en/file-io
+        Advanced String Functions [theory]: /python/en/strings-advanced
+        Read Files [theory]: /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
         Submit [submit]: /submit/mod3/s1
     3.2 Weather 1 [1pt.]:
