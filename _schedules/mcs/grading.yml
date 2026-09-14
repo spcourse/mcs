@@ -72,18 +72,7 @@ templates:
         automatic:
             checkpy: correctness_score * 9 + 1
         calculation: checkpy
-        auto_publish: true
-        hide_calculated: true
-        hide_subgrades: false
-
-    8: &quiz
-        type: pass
-        subgrades:
-            checkpy: float
-        automatic:
-            checkpy: correctness_score * 10
-        calculation: (checkpy >= 10) && -1 || 0
-        auto_publish: true
+        auto_publish: false
         hide_calculated: true
         hide_subgrades: false
 
@@ -166,12 +155,12 @@ grades:
     6_2p: *check
     c-creative: *check
 
-    1quiz: *quiz
-    1rquiz: *quiz
-    2_1quiz: *quiz
-    2_2quiz: *quiz
-    3_1quiz: *quiz
-    3_2quiz: *quiz
+    1quiz: *testt
+    1rquiz: *testt
+    2quiz: *testt
+    2rquiz: *testt
+    3quiz: *testt
+    3rquiz: *testt
 
     pr1_practice_exam1: *testt
     practice_exam: *testt
@@ -201,10 +190,10 @@ quizes:
     submits:
         1quiz: 1
         1rquiz: 1
-        2_1quiz: 1
-        2_2quiz: 1
-        3_1quiz: 1
-        3_2quiz: 1
+        2quiz: 1
+        2rquiz: 1
+        3quiz: 1
+        3rquiz: 1
 
 module_1_numbers_l1num:
     show_progress: true
