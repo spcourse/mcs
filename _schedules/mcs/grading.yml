@@ -67,7 +67,11 @@ templates:
 
     7: &testt
         type: float
-        calculation: correctness_score * 9 + 1
+        subgrades:
+            checkpy: float
+        calculation: checkpy + 1
+        automatic:
+            checkpy: (correctness_score * 9).round(1)
         auto_publish: false
         hide_calculated: true
         hide_subgrades: false
