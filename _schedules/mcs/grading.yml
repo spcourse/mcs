@@ -157,7 +157,16 @@ grades:
 
     1quiz: *testt
     1rquiz: *testt
-    2quiz: *testt
+    2quiz:
+        type: float
+        subgrades:
+            checkpy: float
+        calculation: checkpy + 1
+        automatic:
+            checkpy: (correctness_score * 2 * 9).round(1)
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: false
     2rquiz: *testt
     3quiz: *testt
     3rquiz: *testt
