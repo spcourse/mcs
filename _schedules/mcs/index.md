@@ -71,7 +71,7 @@ are compulsory.</p>
     </tr>
     <tr>
       <th>Week 6<span>5 - 9 Oct</span></th>
-      <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
+      <td><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
       <td><span class="lab">13-15, lab, L0.11</span><span class="dl">23:59 deadline: module 5</span></td>
       <td><span class="lab">13-15, lab, L0.10</span></td>
     </tr>
