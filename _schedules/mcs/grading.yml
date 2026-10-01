@@ -173,7 +173,7 @@ grades:
             checkpy: float
         calculation: checkpy
         automatic:
-            checkpy: (correctness_score * 45 / 3).round(1) + 1
+            checkpy: (correctness_score * 54 / 4).round(1) + 1
         auto_publish: true
         hide_calculated: true
         hide_subgrades: false
