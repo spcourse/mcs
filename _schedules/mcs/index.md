@@ -77,7 +77,7 @@ are compulsory.</p>
     </tr>
     <tr>
       <th>Week 7<span>12 - 16 Oct</span></th>
-      <td><span class="lec">9-11, lecture, L0.10</span><span class="lab req">11-13, lab, L0.11 (compulsory)<br><span class="test">test 3</span></span></td>
+      <td><span class="lec">9-11, lecture, L0.10<br><span class="test">test 3</span></span><span class="lab req">11-13, lab, L0.11 (compulsory)</span></td>
       <td><span class="lab cond">13-15, lab, L0.11 (compulsory if you failed test 3)</span><span class="dl">23:59 deadline: module 6</span></td>
       <td><span class="disc">13-15, discuss module 6 + practice exam, L0.10</span></td>
     </tr>
@@ -185,8 +185,11 @@ Some additional remarks:
 
 ### Tests
 
-- There are three short programming tests, taken during the Monday lab:
-  **14 September**, **28 September** and **12 October**.
+- There are three programming tests. Tests 1 and 2 are short and taken during the Monday
+  lab on **14 September** and **28 September**.
+- Test 3 is a practice exam, taken during the Monday lecture on **12 October, 9:00-11:00**.
+  It has five assignments like the final exam: the first three count for the test grade,
+  the last two are bonus.
 - Their average counts for 10% of your final grade.
 - If you fail a test, the **Tuesday lab** of that week is compulsory for you. We will discuss the test and do a resit for it at the end of the session.
 
