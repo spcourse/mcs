@@ -1,0 +1,42 @@
+name: practice_exam2
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("mcs_practice_exam2", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: spcourse/quizes
+    args: mcs_practice_exam2
+files:
+    required:
+        'mcs_practice_exam2.py': |
+            # Solutions
+
+            # Question 1
+
+            def tokenize(text):
+                return [word.strip(" ,\n.);(!?)'").lower() for word in text.split(' ')]
+
+
+            # Question 2
+
+            # Question 3
+
+            temperatures = [12, 14, 13, 15, 17, 16, 16, 18]
+
+            # Question 4
+
+            tokens = {"How": [1], " ": [2, 4, 6, 9, 11, 14, 16, 18, 20, 23, 26, 28], "much": [3],
+                      "wood": [5, 12, 21, 29], "w": [7], "ould": [8, 25], "a": [10, 19],
+                      "chuck": [13, 15, 22, 27], "if": [17], "c": [24], "?": [30]}
+
+            # Question 5
+
+            pixels = {'.': [(0, 0), (0, 2), (0, 4), (1, 1), (1, 2), (1, 3), (2, 0), (2, 4)],
+                      '#': [(0, 1), (0, 3), (1, 0), (1, 4), (2, 1), (2, 2), (2, 3)]}
+
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
