@@ -208,6 +208,7 @@ grades:
 ########### SP 1 ###########
 
 module_grades:
+    fill_missing: 1
     show_progress: true
     submits:
         m1-grade: 1
